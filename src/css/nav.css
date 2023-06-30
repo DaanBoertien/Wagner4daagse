@@ -1,0 +1,23 @@
+.logo {
+  display: flex;
+  justify-content: left;
+  /* This centers the logo horizontally */
+  width: 100%; }
+
+.logo-img {
+  display: block;
+  /* Removes any default vertical space from inline-block */
+  width: 100%;
+  max-width: 500px;
+  margin-top: 38px;
+  margin-bottom: 38px;
+  height: auto;
+  /* Keeps the aspect ratio */ }
+
+.nav {
+  display: flex;
+  place-items: center;
+  gap: 2em; }
+
+.menu-items {
+  display: none; }

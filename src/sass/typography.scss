@@ -1,0 +1,74 @@
+h1 {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: clamp(2.5rem, 3vw, 3.75rem);
+  line-height: 1;
+  letter-spacing: 0.1rem;
+  color: #000000;
+}
+
+h2 {
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  font-size: clamp(2rem, 2.5vw, 3.75rem);
+  line-height: 1;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  margin-bottom: 1.5rem;
+}
+
+h3 {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: clamp(1.5rem, 2vw, 2.5rem);
+  line-height: 1;
+  margin-bottom: 1rem;
+  letter-spacing: 0.1rem;
+  color: #000000;
+}
+
+.menu-items {
+  font-family: "Inter", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: clamp(1rem, 1.5vw, 1.5rem);
+  line-height: 1.5;
+  letter-spacing: 0.2rem;
+  color: #000000;
+  text-decoration: none;
+  transform: translateY(-5px);
+}
+
+p {
+  font-family: "Inter", sans-serif;
+  font-size: clamp(1.2rem, 1.5vw, 1.5rem);
+  line-height: 1.5;
+  letter-spacing: 0.1rem;
+  color: black;
+  margin-bottom: 3rem;
+  @media (min-width: 768px) {
+    margin-left: 7rem;
+  }
+}
+
+.tickets-button {
+  font-family: "Inter", sans-serif;
+  text-transform: uppercase;
+  font-size: clamp(1rem, 1.5vw, 1.5rem);
+  line-height: 1.5;
+  letter-spacing: 0.2rem;
+  background: black;
+  color: #ffffff;
+  padding: 0.2rem 0.4rem;
+  text-decoration: none;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  display: inline-block;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: underline;
+  text-decoration-thickness: 0.05rem;
+  text-underline-offset: 0.1333rem;
+}
