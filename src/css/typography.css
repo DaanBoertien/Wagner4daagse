@@ -1,17 +1,22 @@
 h1 {
   font-family: "Inter", sans-serif;
   font-weight: 400;
-  font-size: clamp(2.5rem, 3vw, 3.75rem);
+  font-size: clamp(2.5rem, 3vw, 5rem);
+  /* converted from 80px */
   line-height: 1;
-  letter-spacing: 0.1rem;
+  letter-spacing: 0.063rem;
+  /* converted from 10px */
   color: #000000; }
 
 h2 {
   font-family: "Inter", sans-serif;
   font-weight: 300;
-  font-size: clamp(2rem, 2.5vw, 3.75rem);
-  line-height: 1;
-  letter-spacing: 0.1rem;
+  font-size: clamp(2rem, 2.5vw, 3.33rem);
+  /* converted from 53px */
+  line-height: 1.33;
+  /* converted from 80px */
+  letter-spacing: 0.063rem;
+  /* converted from 10px */
   color: #000000;
   margin-bottom: 1.5rem; }
 
@@ -21,30 +26,38 @@ h3 {
   font-size: clamp(1.5rem, 2vw, 2.5rem);
   line-height: 1;
   margin-bottom: 1rem;
-  letter-spacing: 0.1rem;
+  letter-spacing: 0.063rem;
+  /* based on other heading specifications */
   color: #000000; }
 
-.menu-items {
+.menu-link,
+.dropdown-item {
   font-family: "Inter", sans-serif;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 400;
   font-size: clamp(1rem, 1.5vw, 1.5rem);
   line-height: 1.5;
   letter-spacing: 0.2rem;
   color: #000000;
   text-decoration: none;
-  transform: translateY(-5px); }
+  position: relative;
+  background: white;
+  white-space: nowrap; }
 
 p {
   font-family: "Inter", sans-serif;
-  font-size: clamp(1.2rem, 1.5vw, 1.5rem);
-  line-height: 1.5;
-  letter-spacing: 0.1rem;
-  color: black;
+  font-size: clamp(1.6rem, 1.5vw, 2.4rem);
+  /* converted from 32px */
+  line-height: 1.6;
+  /* converted from 48px */
+  letter-spacing: 0.063rem;
+  /* converted from 10px */
+  color: #000000;
   margin-bottom: 3rem; }
-  @media (min-width: 768px) {
-    p {
-      margin-left: 7rem; } }
+
+@media (min-width: 768px) {
+  p {
+    margin-left: 7rem; } }
 
 .tickets-button {
   font-family: "Inter", sans-serif;

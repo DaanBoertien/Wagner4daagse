@@ -12,12 +12,171 @@
   margin-top: 38px;
   margin-bottom: 38px;
   height: auto;
-  /* Keeps the aspect ratio */ }
+  /* Keeps the aspect ratio */
+  z-index: 100; }
 
 .nav {
   display: flex;
   place-items: center;
   gap: 2em; }
 
-.menu-items {
-  display: none; }
+.menu-list {
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  justify-content: center;
+  gap: 2em;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: white;
+  opacity: 0;
+  z-index: 10;
+  transition: opacity 0.2s ease;
+  pointer-events: none; }
+  @media screen and (min-width: 768px) {
+    .menu-list {
+      opacity: 1;
+      pointer-events: all;
+      position: relative;
+      flex-direction: row;
+      margin-left: 2em; } }
+
+nav.is-open .menu-list {
+  opacity: 1;
+  z-index: 10;
+  pointer-events: all; }
+
+.hamburger {
+  padding: 15px 15px;
+  display: inline-block;
+  cursor: pointer;
+  transition-property: opacity, filter;
+  transition-duration: 0.15s;
+  transition-timing-function: linear;
+  font: inherit;
+  color: inherit;
+  text-transform: none;
+  background-color: transparent;
+  border: 0;
+  margin: 0;
+  overflow: visible;
+  z-index: 100; }
+  @media screen and (min-width: 768px) {
+    .hamburger {
+      display: none; } }
+
+.hamburger-box {
+  width: 40px;
+  height: 24px;
+  display: inline-block;
+  position: relative; }
+
+.hamburger-inner {
+  display: block;
+  top: 50%;
+  margin-top: -2px;
+  position: absolute;
+  left: 0; }
+
+.hamburger-inner,
+.hamburger-inner::before,
+.hamburger-inner::after {
+  width: 40px;
+  height: 4px;
+  background-color: #000;
+  border-radius: 4px;
+  position: absolute;
+  transition-property: transform, opacity;
+  transition-duration: 0.2s;
+  transition-timing-function: ease; }
+
+.hamburger-inner::before,
+.hamburger-inner::after {
+  content: "";
+  display: block; }
+
+.hamburger-inner::before {
+  top: -10px; }
+
+.hamburger-inner::after {
+  bottom: -10px; }
+
+/* This will create the 'X' when the menu is open */
+.hamburger.is-open .hamburger-inner::before {
+  transform: translateY(10px) rotate(45deg); }
+
+.hamburger.is-open .hamburger-inner::after {
+  transform: translateY(-10px) rotate(-45deg); }
+
+.hamburger.is-open .hamburger-inner {
+  background-color: transparent; }
+
+.dropdown {
+  position: relative;
+  display: inline-block; }
+
+.dropdown-menu {
+  opacity: 0;
+  transform: translate(-25%, -12px);
+  pointer-events: none;
+  /* By default the dropdown menu is hidden */
+  position: absolute;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  padding-left: 0;
+  padding-top: 1em;
+  background: white;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+  transition: all 0.2s ease; }
+
+.menu-link::after,
+.dropdown-item::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background: transparent;
+  transition: background 0.3s; }
+
+.menu-link:hover::after,
+.dropdown-item:hover::after {
+  background: #000000; }
+
+.dropdown-menu a {
+  color: black;
+  padding: 0;
+  text-decoration: none;
+  display: block; }
+
+.dropdown-menu.show {
+  pointer-events: all;
+  transform: translate(-25%, 4px);
+  opacity: 1;
+  /* The 'show' class will display the dropdown menu */ }
+
+.dropdown-toggle {
+  position: relative; }
+
+.dropdown-toggle .fas {
+  position: absolute;
+  right: -16px;
+  /* Adjust as needed */
+  top: 50%;
+  /* Center vertically */
+  transform: translateY(-50%);
+  /* Center vertically */
+  transition: transform 0.5s; }
+
+.dropdown-toggle.is-open .fas {
+  transform: translateY(-50%) rotate(180deg);
+  /* Rotate upwards */ }
+
+.dropdown.is-open .fas {
+  transform: translateY(-50%) rotate(180deg); }

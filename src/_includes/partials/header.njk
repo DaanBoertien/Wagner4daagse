@@ -1,16 +1,63 @@
 <header>
-  <div class="container">
+  <div class="container flex">
+    <div class="logo">
+      <img
+        class="logo-img"
+        src="/assets/images/Wagner4daagse_logo_lang.svg"
+        alt=""
+      />
+    </div>
     <nav class="nav">
-      <div class="logo">
-        <img
-          class="logo-img"
-          src="/assets/images/Wagner4daagse_logo_lang.svg"
-          alt=""
-        />
-      </div>
-      <a href="#" class="menu-items">Tickets</a>
+      <ul class="menu-list">
+        <a href="#" class="menu-link">Programma</a>
+        <div class="dropdown menu-items">
+          <a href="#" class="menu-link dropdown-toggle"
+            >Tickets<i class="fas fa-angle-down" aria-hidden="true"></i
+          ></a>
+          <div id="dropdownMenu" class="dropdown-menu">
+            <a
+              href="https://www.klassiekemuziek.nl/e/17515/tickets/"
+              target="_blank"
+              class="dropdown-item"
+              >10 augustus</a
+            >
+            <a
+              href="https://www.klassiekemuziek.nl/e/17521/tickets/"
+              target="_blank"
+              class="dropdown-item"
+              >11 augustus</a
+            >
 
-      <a href="#" class="menu-items">Informatie</a>
+            <a
+              href="https://www.klassiekemuziek.nl/e/17522/tickets/"
+              target="_blank"
+              class="dropdown-item"
+              >12 augustus</a
+            >
+            <a
+              href="https://www.klassiekemuziek.nl/e/17523/tickets/"
+              target="_blank"
+              class="dropdown-item"
+              >13 augustus</a
+            >
+          </div>
+        </div>
+        <a href="#" class="menu-link">Informatie</a>
+        <div class="dropdown menu-items">
+          <a href="#" class="menu-link dropdown-toggle"
+            >NL<i class="fas fa-angle-down" aria-hidden="true"></i
+          ></a>
+          <div id="dropdownMenu" class="dropdown-menu">
+            <a href="#" class="dropdown-item">EN</a>
+            <a href="#" class="dropdown-item">DE</a>
+          </div>
+        </div>
+      </ul>
+      <button class="hamburger hamburger--squeeze" type="button">
+        <span class="hamburger-box">
+          <span class="hamburger-inner"></span>
+        </span>
+      </button>
     </nav>
   </div>
 </header>
