@@ -10,7 +10,7 @@ collections:
     label: "Index"
     files:
       - file: "_data/index.yml"
-        label: "Index File"
+        label: "Homepagina"
         name: "index"
         fields:
           - { label: "Content", name: "content", widget: "markdown" }
