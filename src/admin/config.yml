@@ -5,13 +5,12 @@ backend:
 
 media_folder: "src/assets/uploads"
 public_folder: "/assets/uploads"
-
 collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "src/blog"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "index"
+    label: "Index"
+    files:
+      - file: "_data/index.yml"
+        label: "Index File"
+        name: "index"
+        fields:
+          - { label: "Content", name: "content", widget: "markdown" }
