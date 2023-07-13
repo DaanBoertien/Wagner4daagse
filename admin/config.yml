@@ -9,7 +9,7 @@ collections:
   - name: "pages"
     label: "Pagina's"
     files:
-      - file: "_data/index.yml"
+      - file: "src/_data/index.yml"
         label: "Homepagina"
         name: "index"
         fields:
