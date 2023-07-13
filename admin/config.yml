@@ -6,11 +6,13 @@ backend:
 media_folder: "src/assets/uploads"
 public_folder: "/assets/uploads"
 collections:
-  - name: "index"
-    label: "Index"
+  - name: "pages"
+    label: "Pagina's"
     files:
       - file: "_data/index.yml"
         label: "Homepagina"
         name: "index"
         fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Subtitle", name: "subtitle", widget: "string" }
           - { label: "Content", name: "content", widget: "markdown" }
