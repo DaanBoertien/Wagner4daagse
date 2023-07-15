@@ -17,7 +17,18 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter('markdownify', (markdownString) => {
     return markdownLibrary.render(markdownString);
   });
-
+  eleventyConfig.addFilter("button", function (text, link) {
+    return `
+      <div class="tickets-button">
+        <a href="${link}" target="_blank" class="">
+          ${text}
+          <span class="close">
+            <img src="assets/images/play-outline-svgrepo-com.svg" alt="" />
+          </span>
+        </a>
+      </div>
+    `;
+  });
   return {
     dir: {
       input: "src",
