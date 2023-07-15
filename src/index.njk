@@ -3,9 +3,8 @@ layout: layouts/base.njk
 title: Wagner4daagse
 ---
 
-<div class="container">
-  <h1>Wagner4daagse</h1>
-  <h2>Heilig Landstichting</h2>
+<div class="container mt-2">
+  {{ index.content1 | markdownify | safe }}
   <div class="tickets-button">
     <a
       href="https://www.klassiekemuziek.nl/p/17515/wagner4daagse-met-marc-pantus-friends"
@@ -18,9 +17,20 @@ title: Wagner4daagse
       </span>
     </a>
   </div>
-
-  {{ index.content | markdownify | safe }}
-
+  {{ index.content2 | markdownify | safe }}
+  <div class="tickets-button">
+    <a
+      href="https://www.klassiekemuziek.nl/p/17515/wagner4daagse-met-marc-pantus-friends"
+      target="_blank"
+      class=""
+    >
+      Tickets
+      <span class="close"
+        ><img src="assets/images/play-outline-svgrepo-com.svg" alt="" />
+      </span>
+    </a>
+  </div>
+  {{ index.content3 | markdownify | safe }}
   {#
   <h3>Parsifal, acte 3</h3>
   <p>

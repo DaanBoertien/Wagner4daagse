@@ -61,7 +61,8 @@ p {
 }
 
 @media (min-width: 768px) {
-  p {
+  p,
+  .tickets-button {
     margin-left: 7rem;
   }
 }

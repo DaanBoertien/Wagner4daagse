@@ -126,7 +126,8 @@ p {
   font-weight: 300; }
 
 @media (min-width: 768px) {
-  p {
+  p,
+  .tickets-button {
     margin-left: 7rem; } }
 
 .tickets-button {
@@ -376,3 +377,6 @@ body {
 
 .flex {
   display: flex; }
+
+.mt-2 {
+  margin-top: 2em; }
