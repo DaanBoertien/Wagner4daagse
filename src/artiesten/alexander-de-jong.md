@@ -14,9 +14,9 @@ bio: >-
 
   Amsterdam, waar hij vervolgens rollen zong in Der Rosenkavalier, Tosca, Les contes
 
-  d&#39;Hoffman, Gianni Schicchi, Animal Farm, Clemency, The New Prince en verschillende
+  d'Hoffman, Gianni Schicchi, Animal Farm, Clemency, The New Prince en verschillende
 
-  jeugdopera&#39;s, waaronder Hondenhartje en The boy who grew too fast. 
+  jeugdopera's, waaronder Hondenhartje en The boy who grew too fast. 
 
   Op het operatoneel zong Alexander verder rollen in o.a. La Traviata, Tosca, A little night music
 
@@ -28,7 +28,7 @@ bio: >-
 
   Onlangs nog zong Alexander de titelrol in de wereldpremière van de opera Maduro in Amare,
 
-  Den Haag.Daarnaast geeft Alexander concerten met divers repertoire, waaronder Bach’s
+  Den Haag. Daarnaast geeft Alexander concerten met divers repertoire, waaronder Bach’s
 
   Magnificat, Weihnachtsoratorium en Matthäus-Passion, Haydn’s Nelson Messe, Mozart’s Mis
 
