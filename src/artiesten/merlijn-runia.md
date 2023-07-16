@@ -14,28 +14,13 @@ bio: >-
 
   en Philomela (Sisters).
 
-  Merlijn was te zien in het Holland Festival, als Kathy in de wereldpremière van Arnoud
+  Merlijn was te zien in het Holland Festival, als Kathy in de wereldpremière van Arnoud Noordegraafs As Big As The Sky. Ze zong onder meer de altsolo’s in Bach’s Matthäus Passion, Duruflé’s Requiem, Rossini’s
 
-  Noordegraafs As Big As The
-
-  Sky. Ze zong onder meer de altsolo’s in Bach’s Matthäus Passion, Duruflé’s Requiem, Rossini’s
-
-  Petite Messe Solennelle, Händel’s Messiah, Schuberts Mis in As en de Krönungsmesse van
-
-  Mozart. Merlijn werd uitgenodigd om Sequenza III van Luciano Berio uit te voeren tijdens het Berio
-
-  Festivals in Amster- dam en Rotterdam. Ze zong Tehellim, Music for 18 Musicians en Desert Music
-
-  van Steve Reich. Merlijn heeft gewerkt met dirigenten als Patrick Fournillier, Antony Hermus,
-
-  Jonathan Cohen, Etienne Siebens, Bas Wiegers, Martin Sieghart en Clark Rundell, en met
-
-  regisseurs als Laurent Pelly, Marcel Sijm, Isabel Schröder, Lotte de Beer, Marc Krone, Xander
-
-  Straat, Daniël van Klaveren en Elsina Jansen.
+  Petite Messe Solennelle, Händel’s Messiah, Schuberts Mis in As en de Krönungsmesse van Mozart. Merlijn werd uitgenodigd om Sequenza III van Luciano Berio uit te voeren tijdens het Berio Festivals in Amster- dam en Rotterdam. Ze zong Tehellim, Music for 18 Musicians en Desert Music van Steve Reich. Merlijn heeft gewerkt met dirigenten als Patrick Fournillier, Antony Hermus, Jonathan Cohen, Etienne Siebens, Bas Wiegers, Martin Sieghart en Clark Rundell, en met regisseurs als Laurent Pelly, Marcel Sijm, Isabel Schröder, Lotte de Beer, Marc Krone, Xander Straat, Daniël van Klaveren en Elsina Jansen.
 
   Merlijn vormt een liedduo met pianist Mark van Nispen, is lid van het Coco Collectief en Kasko
 
   (voorheen Kameroperahuis).
+photo: /assets/uploads/runia.jpg
 masterclass_participant: true
 ---
