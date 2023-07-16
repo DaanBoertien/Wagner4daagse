@@ -50,7 +50,7 @@ moreinfo: >-
 
   programma:
 
-  **Wagner Parsifal**
+  Wagner Parsifal
 
   Vorspiel
 
@@ -58,11 +58,11 @@ moreinfo: >-
 
   Karfreitagszauber
 
-  **Wagner Lohengrin**
+  Wagner Lohengrin
 
   Vorspiel
 
-  **Wagner Tristan und Isolde**
+  Wagner Tristan und Isolde
 
   Vorspiel & Isoldes Liebestod
 
