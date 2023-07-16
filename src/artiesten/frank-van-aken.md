@@ -35,5 +35,6 @@ bio: >-
   Onlangs vertolkte Frank de rol van Aegisth in Elektra met het Tokyo Symphony Orchestra
 
   in Japan.
+photo: /assets/uploads/frankvanaken.webp
 masterclass_participant: false
 ---
