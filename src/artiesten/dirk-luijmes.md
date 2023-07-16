@@ -45,5 +45,6 @@ bio: >-
   Clavichordconcert “This is a loud world” ten doop. In 2021 publiceerde hij een boek over Bachs
 
   Mattheuspassie: “O lamm kottes oensjoeldiek”.
+photo: /assets/uploads/drik luijmes.jpg
 masterclass_participant: false
 ---
