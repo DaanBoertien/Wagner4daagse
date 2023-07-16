@@ -25,9 +25,9 @@ collections:
           preview: false
         fields:
           - { label: "Content", name: "content", widget: "markdown" }
-  - name: "events"
-    label: "Events"
-    folder: "src/events"
+  - name: "programma"
+    label: "Programma"
+    folder: "src/programma"
     create: true
     slug: "{{slug}}"
     fields:
@@ -39,7 +39,7 @@ collections:
         widget: "relation"
         collection: "people"
         searchFields: ["name"]
-        displayFields: ["name"]
+        valueField: "name"
         multiple: true
 
   - name: "people"
