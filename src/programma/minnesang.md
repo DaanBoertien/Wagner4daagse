@@ -1,7 +1,7 @@
 ---
 tags: programma
 title: Minnesang
-photo: /assets/uploads/mo_plattegrond-flyer-2023-1-paginas-2-gedraaid-pdf.jpg
+photo: /assets/uploads/Tis_Kaoru.jpeg
 Samenvatting: >-
   In de sfeervolle synagoge luistert u naar muziek van de Minnesänger.
   Kunstenaar,
