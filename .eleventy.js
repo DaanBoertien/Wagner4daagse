@@ -16,20 +16,20 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addCollection("artiesten", function(collection) {
     let artiesten = collection.getFilteredByGlob("src/artiesten/*.md");
-    console.log(artiesten);
+    // console.log(artiesten);
     return artiesten;
   });
 
   eleventyConfig.addCollection("programma", function(collection) {
     let programma = collection.getFilteredByGlob("src/programma/*.md");
-    console.log(programma);
+    // console.log(programma);
     return programma;
   });
 
   eleventyConfig.addFilter("getArtistData", function(name, artiesten) {
-    console.log('Requested artist name:', name);
+    // console.log('Requested artist name:', name);
     let artist = artiesten.find(artist => artist.data.name === name);
-    console.log('Returned artist data:', artist);
+    // console.log('Returned artist data:', artist);
     return artist;
   });
 

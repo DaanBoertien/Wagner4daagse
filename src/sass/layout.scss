@@ -87,3 +87,32 @@ body {
   flex-direction: column;
   justify-content: space-between;
 }
+
+.ticket-grid {
+  display: grid;
+  gap: 2em;
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.ticket-card {
+  // max-width: 426px;
+  background: var(--bg-beige);
+  border-radius: 16px;
+  padding: 1em;
+  .day {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    margin-right: 1em;
+
+    font-weight: 400;
+  }
+  .tickets-button {
+    border: 2px solid white;
+    margin-left: 0;
+    width: 100%;
+    margin-bottom: 0;
+    margin-top: 3em;
+  }
+}
