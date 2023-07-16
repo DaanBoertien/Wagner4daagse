@@ -1,7 +1,7 @@
 ---
 tags: programma
 title: Presentatieconcert masterclass Eva-Maria Westbroek
-photo: /assets/uploads/mo_plattegrond-flyer-2023-1-paginas-2-gedraaid-pdf.jpg
+photo: /assets/uploads/373f0a_9ffe889cd2824752a22ce11247d7fba1.webp
 Samenvatting: >-
   Zes zangers werkten tijdens de Wagner4daagse met wereldster Eva-Maria
   Westbroek aan
