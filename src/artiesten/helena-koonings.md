@@ -18,11 +18,9 @@ bio: >-
 
   Strauss II. In de zomer van 2021 hernam zij haar rol als ‘A bird’ in Judith Weirs ‘Blond Eckbert’ bij
 
-  het Radio Filharmonisch Orkest onder leiding van Franck Ollu ter ere van het 60-jarig bestaan van
-
-
-  de ZaterdagMatinee. In oktober 2022 werd Helena uitgenodigd door het Orquestra Sinfônica de
+  het Radio Filharmonisch Orkest onder leiding van Franck Ollu ter ere van het 60-jarig bestaan van de ZaterdagMatinee. In oktober 2022 werd Helena uitgenodigd door het Orquestra Sinfônica de
 
   Porto Alegre voor hun productie van Die Fledermaus.
+photo: /assets/uploads/Helena_Koonings_ Mel_Boas.JPG
 masterclass_participant: true
 ---
