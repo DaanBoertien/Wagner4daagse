@@ -34,17 +34,17 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "markdown" }
-      - label: "People"
-        name: "people"
+      - label: "Artiesten"
+        name: "artists"
         widget: "relation"
-        collection: "people"
+        collection: "artiesten"
         searchFields: ["name"]
         valueField: "name"
         multiple: true
 
-  - name: "people"
-    label: "People"
-    folder: "src/people"
+  - name: "artists"
+    label: "Artiesten"
+    folder: "src/artiesten"
     create: true
     slug: "{{slug}}"
     fields:

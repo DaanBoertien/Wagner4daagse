@@ -14,11 +14,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addDataExtension("yml", contents => yaml.load(contents));
   eleventyConfig.addCollection("events", function(collection) {
-    return collection.getFilteredByGlob("src/events/*.md");
+    return collection.getFilteredByGlob("src/programma/*.md");
 });
 
 eleventyConfig.addCollection("people", function(collection) {
-    return collection.getFilteredByGlob("src/people/*.md");
+    return collection.getFilteredByGlob("src/artiesten/*.md");
 });
   eleventyConfig.setLibrary("md", markdownLibrary);
   eleventyConfig.addFilter('markdownify', (markdownString) => {
