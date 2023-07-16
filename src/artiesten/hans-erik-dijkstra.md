@@ -44,5 +44,6 @@ bio: >-
   die in 2021 is uitgevoerd door zangers van de Nederlandse Reisopera, een koor en een
 
   kamerorkest.
+photo: /assets/uploads/Hans-Erik_Dijkstra.jpg
 masterclass_participant: false
 ---
