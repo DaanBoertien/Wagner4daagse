@@ -1,7 +1,7 @@
 ---
 tags: programma
 title: Harmonium solo
-photo: /assets/uploads/mo_plattegrond-flyer-2023-1-paginas-2-gedraaid-pdf.jpg
+photo: /assets/uploads/drik luijmes.jpg
 Samenvatting: >-
   Solo Harmoniumrecital Dirk Luijmes
 
