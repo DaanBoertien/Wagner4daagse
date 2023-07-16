@@ -1,7 +1,7 @@
 ---
 tags: programma
 title: Balkonscène
-photo: /assets/uploads/mo_plattegrond-flyer-2023-1-paginas-2-gedraaid-pdf.jpg
+photo: /assets/uploads/wandelingen-cenakelkerk-buiten-rechten-david-brand-met-naam.jpg
 Samenvatting: >-
   Net als tijdens de Bayreuther Festspiele kondigt vanaf het balkon een fanfare
   de aanvang
