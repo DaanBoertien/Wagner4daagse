@@ -1,7 +1,7 @@
 ---
 tags: programma
 title: Cosima bij Pilatus
-photo: /assets/uploads/mo_plattegrond-flyer-2023-1-paginas-2-gedraaid-pdf.jpg
+photo: /assets/uploads/daniel Schwagermann2.jpg
 Samenvatting: >-
   De jonge blazers van het Cosima Koperkwintet spelen werken van Wagner en
 
