@@ -17,6 +17,7 @@ artists:
   - Sílvia Sequeira
   - Helena Koonings
   - Merlijn Runia
+  - Zinzi Frohwein
 location: Piet Gerritszaal
 datetime: |-
   do/vr/za: 14.00-17.00
