@@ -12,6 +12,8 @@ collections:
       - file: "src/_data/index.yml"
         label: "Homepagina"
         name: "index"
+        editor:
+          preview: false
         fields:
           - { label: "Content1", name: "content1", widget: "markdown" }
           - { label: "Content2", name: "content2", widget: "markdown" }
@@ -19,5 +21,7 @@ collections:
       - file: "src/_data/informatie.yml"
         label: "Informatie"
         name: "informatie"
+        editor:
+          preview: false
         fields:
           - { label: "Content", name: "content", widget: "markdown" }
