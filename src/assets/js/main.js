@@ -31,12 +31,12 @@ window.onclick = function (event) {
 }
 
 
-document.querySelector('.dropdown-toggle').addEventListener('click', function(event) {
-  this.parentNode.classList.toggle('is-open');
-});
+// document.querySelector('.dropdown-toggle').addEventListener('click', function(event) {
+//   this.parentNode.classList.toggle('is-open');
+// });
 
 
-
+console.log('check dit');
 
 const swiper = new Swiper('.swiper', {
     // Optional parameters
