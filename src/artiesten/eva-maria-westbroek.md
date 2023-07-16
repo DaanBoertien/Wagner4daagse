@@ -36,7 +36,7 @@ bio: >-
 
   in Elektra, Elisabeth in Tannhauser en Katerina Ismailova in Lady Macbeth van Mtsensk te zingen.
 
-  Eva kreeg ook universele bijval door de titelrol te spelen in de wereldpremière van Turnage&#39;s Anna
+  Eva kreeg ook universele bijval door de titelrol te spelen in de wereldpremière van Turnage's Anna
 
   Nicole met het Royal Opera House.
 
@@ -64,11 +64,11 @@ bio: >-
 
   Eyre. noem er maar een paar.
 
-  Eva&#39;s brede scala aan onderscheidingen en onderscheidingen omvat de eerste prijs bij de
+  Eva's brede scala aan onderscheidingen en onderscheidingen omvat de eerste prijs bij de
 
-  Nederlandse VSCD Klassieke Muziekprijzen in de categorie &#39;Most Impressive Individual Artistic
+  Nederlandse VSCD Klassieke Muziekprijzen in de categorie Most Impressive Individual Artistic
 
-  Achievement&#39;, laureaat bij het Angelica Catalani Concours en het Santa Margherita Ligure
+  Achievement, laureaat bij het Angelica Catalani Concours en het Santa Margherita Ligure
 
   Concours, een Grammy-nominatie voor Wozzeck met De Nationale Opera , en de titel van
 
@@ -77,5 +77,6 @@ bio: >-
   uitmaakte van het ensemble. Sinds 2014 is Eva ambassadeur voor Musicians without Borders, een
 
   goed doel dat haar nauw aan het hart ligt.
+photo: /assets/uploads/eva-maria-westbroek.jpg
 masterclass_participant: false
 ---
