@@ -8,16 +8,15 @@ bio: >-
 
   waar ze de publieksprijs won; Zij was de winnares van het televisieprogramma ARIA en won de 2e
 
-  prijs, de beste dramatische stem, een speciale prijs en de publieksprijs in het Concurso Ebe
+  prijs, voor de beste dramatische stem, een speciale prijs en de publieksprijs in het Concurso Ebe
 
   Stignani. Silvia won vervolgens de 3e prijs in het Concurso Vinceró, de publieksprijs in de
 
-  competitie Ciclo Lousada en was de winnaar van de Wagner- en de publieksprijs op het IVC van ’s
-
-  Hertogenbosch in 2022. In 2021 won ze de 2e prijs op de Portugese Rotary Foundation-wedstrijd.
+  competitie Ciclo Lousada en was de winnaar van de Wagner- en de publieksprijs op het Internationaal Vocalisten Concours van ’s Hertogenbosch in 2022. In 2021 won ze de 2e prijs op de Portugese Rotary Foundation-wedstrijd.
 
   In het operarepertoire viel Sílvia op in de rollen van Fiordiligi (Cosi fan tutte - Mozart), Giulietta (Les
 
-  Contes d&#39;Hoffman – Offenbach) Silvia (Zanetto – Mascagni) en Micaela (Carmen – Bizet).
+  Contes d'Hoffman – Offenbach) Silvia (Zanetto – Mascagni) en Micaela (Carmen – Bizet).
+photo: /assets/uploads/Silvia Sequiera_1.jpg
 masterclass_participant: true
 ---
