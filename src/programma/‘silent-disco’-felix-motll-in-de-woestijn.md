@@ -1,25 +1,4 @@
 ---
-tags: programma
-layout: layouts/programmaonderdeel.njk
-title: ‘Silent Disco’ Felix Motll in de woestijn
-photo: /assets/uploads/mo_plattegrond-flyer-2023-1-paginas-2-gedraaid-pdf.jpg
-Samenvatting: >-
-  Op een beschutte plek in de woestijn luistert u in alle rust naar de
-  onthaastende opnames
-
-  van Felix Mottl. Mottl dirigeerde de allereerste Ring der Nibelungen, en speelde in 1907
-
-  een reeks stukken van Wagner in voor de pianola, zodat die we vandaag nog steeds
-
-  kunnen beluisteren. Neem plaats in een gemakkelijke stoel, zet een koptelefoon op – en u
-
-  kunt Wagner bijna aanraken.
-artists:
-  - Marc Pantus
-location: Woestijn, Museumpark Orientalis
-datetime: |-
-  do/vr/za/zo: Doorlopend
-  Toegang: gratis
 moreinfo: >-
   Felix Josef von Mottl (1856 - 1911) was een Oostenrijkse dirigent en
   componist. Hij werd
@@ -71,7 +50,7 @@ moreinfo: >-
 
   programma:
 
-  Wagner Parsifal
+  **Wagner Parsifal**
 
   Vorspiel
 
@@ -79,13 +58,34 @@ moreinfo: >-
 
   Karfreitagszauber
 
-  Wagner Lohengrin
+  **Wagner Lohengrin**
 
   Vorspiel
 
-  Wagner Tristan und Isolde
+  **Wagner Tristan und Isolde**
 
   Vorspiel & Isoldes Liebestod
 
   Duur per fragment ongeveer 10 minuten.
+layout: layouts/programmaonderdeel.njk
+title: ‘Silent Disco’ Felix Motll in de woestijn
+photo: /assets/uploads/mottlrichterlevi-1536x1120.jpg
+Samenvatting: >-
+  Op een beschutte plek in de woestijn luistert u in alle rust naar de
+  onthaastende opnames
+
+  van Felix Mottl. Mottl dirigeerde de allereerste Ring der Nibelungen, en speelde in 1907
+
+  een reeks stukken van Wagner in voor de pianola, zodat die we vandaag nog steeds
+
+  kunnen beluisteren. Neem plaats in een gemakkelijke stoel, zet een koptelefoon op – en u
+
+  kunt Wagner bijna aanraken.
+artists:
+  - Marc Pantus
+location: Woestijn, Museumpark Orientalis
+tags: programma
+datetime: |-
+  do/vr/za/zo: Doorlopend
+  Toegang: Gratis voor tickethouders en museumbezoekers.
 ---
