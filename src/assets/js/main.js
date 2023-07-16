@@ -12,10 +12,10 @@ document.querySelector('.hamburger').addEventListener('click', function() {
   document.querySelector('nav').classList.toggle('is-open');
 });
 
-document.querySelector(".dropdown-toggle").addEventListener('click', function (event) {
-  event.stopPropagation();
-  document.getElementById("dropdownMenu").classList.toggle("show");
-});
+// document.querySelector(".dropdown-toggle").addEventListener('click', function (event) {
+//   event.stopPropagation();
+//   document.getElementById("dropdownMenu").classList.toggle("show");
+// });
 
 // Close the dropdown menu if the user clicks outside of it
 window.onclick = function (event) {

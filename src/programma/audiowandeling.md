@@ -1,5 +1,6 @@
 ---
 tags: programma
+layout: layouts/programmaonderdeel.njk
 title: Audiowandeling
 photo: /assets/uploads/Arnon door Sander Voerman 2.jpg
 Samenvatting: >-

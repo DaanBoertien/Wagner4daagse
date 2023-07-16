@@ -1,5 +1,6 @@
 ---
 tags: programma
+layout: layouts/programmaonderdeel.njk
 title: ‘Silent Disco’ Felix Motll in de woestijn
 photo: /assets/uploads/mo_plattegrond-flyer-2023-1-paginas-2-gedraaid-pdf.jpg
 Samenvatting: >-

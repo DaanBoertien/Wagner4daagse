@@ -1,5 +1,6 @@
 ---
 tags: programma
+layout: layouts/programmaonderdeel.njk
 title: Harmonium solo
 photo: /assets/uploads/drik luijmes gecentreerd.jpg
 Samenvatting: >-

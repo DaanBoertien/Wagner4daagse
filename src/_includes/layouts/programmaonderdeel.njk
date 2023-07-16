@@ -1,0 +1,44 @@
+---
+layout: layouts/base.njk
+---
+
+<article>
+  <header>
+    <h1>{{ title }}</h1>
+    {% if photo %}
+    <img src="{{ photo }}" alt="{{ title }}" />
+    {% endif %}
+  </header>
+
+  <p>{{ Samenvatting }}</p>
+
+  {% if artists %}
+  <h2>Artists</h2>
+  <ul>
+    {% for artist in artists %}
+    <li>{{ artist }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  <h2>Location</h2>
+  <p>{{ location }}</p>
+
+  <h2>DateTime</h2>
+  <p>{{ datetime }}</p>
+
+  <h2>More Info</h2>
+  <p>{{ moreinfo }}</p>
+
+  <h1>{{ page.data.title }}</h1>
+  <!-- Display the event title -->
+
+  <p>{{ page.data.description }}</p>
+  <!-- Display the event description -->
+
+  {% for artistName in programma.artists %} {% set artist =
+  collections.artiesten | getArtistData(artistName) %}
+  <h2>{{ artist.data.name }}</h2>
+  <p>{{ artist.data.bio }}</p>
+  {# Add more artist details as needed... #} {% endfor %}
+</article>

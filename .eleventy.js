@@ -13,20 +13,31 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/_includes/partials");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addDataExtension("yml", contents => yaml.load(contents));
-  eleventyConfig.addCollection("events", function(collection) {
-    return collection.getFilteredByGlob("src/programma/*.md");
-});
 
-eleventyConfig.addCollection("people", function(collection) {
-    return collection.getFilteredByGlob("src/artiesten/*.md");
-});
+  eleventyConfig.addCollection("artiesten", function(collection) {
+    let artiesten = collection.getFilteredByGlob("src/artiesten/*.md");
+    console.log(artiesten);
+    return artiesten;
+  });
+
+  eleventyConfig.addCollection("programma", function(collection) {
+    let programma = collection.getFilteredByGlob("src/programma/*.md");
+    console.log(programma);
+    return programma;
+  });
+
+  eleventyConfig.addFilter("getArtistData", function(name, artiesten) {
+    console.log('Requested artist name:', name);
+    let artist = artiesten.find(artist => artist.data.name === name);
+    console.log('Returned artist data:', artist);
+    return artist;
+  });
+
   eleventyConfig.setLibrary("md", markdownLibrary);
   eleventyConfig.addFilter('markdownify', (markdownString) => {
     return markdownLibrary.render(markdownString);
   });
 
-   
-  
   return {
     dir: {
       input: "src",

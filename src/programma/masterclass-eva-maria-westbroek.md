@@ -1,5 +1,6 @@
 ---
 tags: programma
+layout: layouts/programmaonderdeel.njk
 title: Masterclass Eva-Maria Westbroek
 photo: /assets/uploads/eva-maria-westbroek-gecentreerd.jpg
 Samenvatting: >-

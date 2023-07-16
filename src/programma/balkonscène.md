@@ -1,5 +1,6 @@
 ---
 tags: programma
+layout: layouts/programmaonderdeel.njk
 title: Balkonscène
 photo: /assets/uploads/wandelingen-cenakelkerk-buiten-rechten-david-brand-met-naam.jpg
 Samenvatting: Net als tijdens de Bayreuther Festspiele kondigt vanaf het balkon

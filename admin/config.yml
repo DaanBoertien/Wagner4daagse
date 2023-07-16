@@ -49,6 +49,12 @@ collections:
       - { label: "Locatie", name: "location", widget: "string" }
       - { label: "Data en Tijden", name: "datetime", widget: "markdown" }
       - { label: "Meer Informatie", name: "moreinfo", widget: "markdown" }
+      - name: "layout"
+        widget: "hidden"
+        default: "layouts/programma.njk"
+      - name: "tags"
+        widget: "hidden"
+        default: "programmaonderdeel"
 
   - name: "artiesten"
     label: "Artiesten"
@@ -68,3 +74,6 @@ collections:
           widget: "boolean",
           default: false,
         }
+      - name: "tags"
+        widget: "hidden"
+        default: "artiesten"

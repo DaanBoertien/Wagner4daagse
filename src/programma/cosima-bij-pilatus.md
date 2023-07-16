@@ -1,5 +1,6 @@
 ---
 tags: programma
+layout: layouts/programmaonderdeel.njk
 title: Cosima bij Pilatus
 photo: /assets/uploads/daniel Schwagermann2.jpg
 Samenvatting: >-

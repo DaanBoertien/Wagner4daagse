@@ -1,5 +1,6 @@
 ---
 tags: programma
+layout: layouts/programmaonderdeel.njk
 title: Minnesang
 photo: /assets/uploads/Tis_Kaoru.jpeg
 Samenvatting: >-
