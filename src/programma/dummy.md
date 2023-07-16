@@ -5,6 +5,8 @@ people:
   - person1
 description: This is a dummy event.
 layout: layouts/base.njk
+artists:
+  - Jeff Doe
 ---
 
 This is the body of the event post. You can write more about the event here.
