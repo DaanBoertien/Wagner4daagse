@@ -34,7 +34,7 @@ collections:
     editor:
       preview: false
     create: true
-    # slug: "{{slug}}"
+    slug: "{{slug}}"
     fields:
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Foto", name: "photo", widget: "image" }
@@ -57,7 +57,7 @@ collections:
     editor:
       preview: false
     create: true
-    slug: "{{slug}}"
+    slug: "{{name}}"
     fields:
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Bio", name: "bio", widget: "markdown" }
