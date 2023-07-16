@@ -17,7 +17,7 @@ moreinfo: |-
   Fuga
 layout: layouts/programmaonderdeel.njk
 title: Cosima bij Pilatus
-photo: /assets/uploads/daniel Schwagermann2.jpg
+photo: /assets/uploads/paleis-van-pilatus.jpg
 Samenvatting: >-
   De jonge blazers van het Cosima Koperkwintet spelen werken van Wagner en
 
