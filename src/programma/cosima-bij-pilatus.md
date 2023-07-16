@@ -33,6 +33,7 @@ artists:
   - Daniël Schwagermann
   - Janire de Paz Rivas
   - Richard Ranvier
+  - João Fernando
 location: Binnenplaats Paleis van Pilatus, Museumpark Orientalis
 tags: programma
 datetime: |-
