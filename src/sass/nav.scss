@@ -4,10 +4,14 @@
   width: 100%;
 }
 
+.link-logo {
+  display: block;
+}
+
 .logo-img {
   display: block; /* Removes any default vertical space from inline-block */
-  width: 100%;
-  max-width: 500px;
+  width: 100%; /* takes full width */
+  max-width: 500px; /* limit to a max width of 500px */
   margin-top: 38px;
   margin-bottom: 38px;
   height: auto; /* Keeps the aspect ratio */
@@ -39,6 +43,7 @@
   z-index: 10;
   transition: opacity 0.2s ease;
   pointer-events: none;
+  margin-bottom: 0;
 
   @media screen and (min-width: 768px) {
     opacity: 1;
