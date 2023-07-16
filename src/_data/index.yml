@@ -8,6 +8,19 @@ content1: >-
   Museumpark Orientalis en het monumentale Begraafpark Heilig Landstichting.
 
 
+  ```
+
+  <div class="tickets-button">
+      <a href="/tickets" class="">
+        Testbutton
+        <span class="close"
+          ><img src="assets/images/play-outline-svgrepo-com.svg" alt="" />
+        </span>
+      </a>
+    </div>
+  ```
+
+
   Eva-Maria Westbroek geeft een openbare masterclass aan een zestal getalenteerde jonge zangers. Er is een gratis audiowandeling door het park met Arnon Grunberg. Hij spreekt over lijden en verlossing (de thema’s van de opera Parsifal), Wagners antisemitisme en Wagner als schrijver. In de synagoge van het museumpark neemt Middeleeuwen-specialist en performer Tis Kaoru u mee naar Wagners middeleeuwse bronnen, de sage Parcival van Wolfram von Eschenbach en de muziek van de Minnesänger. Dirk Luijmes tovert met klanken en kleuren in een harmonium-solorecital met muziek van Wagner, Liszt en Bruckner.
 
 
