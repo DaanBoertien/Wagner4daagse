@@ -21,5 +21,6 @@ bio: >-
   sinds 2020. Daarmee speelde ze in diverse beroemde zalen zoals Het Concertgebouw Amsterdam
 
   en Konzerthaus Berlin. Janire is reserve lid van de EUYO het European Union Youth Orchestra.
+photo: /assets/uploads/janire_de_paz_rivas.jpg
 masterclass_participant: false
 ---
