@@ -1,5 +1,20 @@
 ---
-tags: programma
+moreinfo: |-
+  Programma
+  Wagner Tannhäuser
+  Festmarsch
+  Wagner Parsifal
+  Vorspiel
+  Einzug der Gralsritter
+  Karfreitagszauber
+  Wagner Lohengrin
+  Brautlied
+  Mendelssohn Ein Sommernachtstraum
+  Hochzeitsmarsch
+  Nocturne
+  Mendelssohn Aus tiefer Noth schrei' ich zu dir
+  Koraal
+  Fuga
 layout: layouts/programmaonderdeel.njk
 title: Cosima bij Pilatus
 photo: /assets/uploads/daniel Schwagermann2.jpg
@@ -19,25 +34,10 @@ artists:
   - Janire de Paz Rivas
   - Richard Ranvier
 location: Binnenplaats Paleis van Pilatus, Museumpark Orientalis
+tags: programma
 datetime: |-
   do/vr/za: 18.00-18.45
   zo: 15.00-15.45
 
   Toegang: €10,-
-moreinfo: |-
-  Programma
-  Wagner Tannhäuser
-  Festmarsch
-  Wagner Parsifal
-  Vorspiel
-  Einzug der Gralsritter
-  Karfreitagszauber
-  Wagner Lohengrin
-  Wedding March
-  Mendelssohn Midsummer Night’s Dream
-  Wedding March
-  Nocturne
-  Mendelssohn Aus tiefer Noth schrei' ich zu dir
-  Koraal
-  Fuga
 ---
