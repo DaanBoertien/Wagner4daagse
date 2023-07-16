@@ -58,4 +58,4 @@ collections:
     fields:
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Bio", name: "bio", widget: "markdown" }
-      - { label: "Foto", name: "photo", widget: "image" }
+      - { label: "Foto", name: "photo", widget: "image", required: false }
