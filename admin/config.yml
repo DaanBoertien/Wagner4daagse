@@ -25,3 +25,28 @@ collections:
           preview: false
         fields:
           - { label: "Content", name: "content", widget: "markdown" }
+  - name: "events"
+    label: "Events"
+    folder: "src/events"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "markdown" }
+      - label: "People"
+        name: "people"
+        widget: "relation"
+        collection: "people"
+        searchFields: ["name"]
+        displayFields: ["name"]
+        multiple: true
+
+  - name: "people"
+    label: "People"
+    folder: "src/people"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Bio", name: "bio", widget: "markdown" }

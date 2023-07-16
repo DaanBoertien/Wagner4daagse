@@ -13,6 +13,13 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/_includes/partials");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addDataExtension("yml", contents => yaml.load(contents));
+  eleventyConfig.addCollection("events", function(collection) {
+    return collection.getFilteredByGlob("src/events/*.md");
+});
+
+eleventyConfig.addCollection("people", function(collection) {
+    return collection.getFilteredByGlob("src/people/*.md");
+});
   eleventyConfig.setLibrary("md", markdownLibrary);
   eleventyConfig.addFilter('markdownify', (markdownString) => {
     return markdownLibrary.render(markdownString);
