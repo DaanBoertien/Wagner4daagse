@@ -3,3 +3,11 @@
 
 .mt-2 {
   margin-top: 2em; }
+
+.mb-2 {
+  margin-bottom: 2em; }
+
+.flex-apart {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; }

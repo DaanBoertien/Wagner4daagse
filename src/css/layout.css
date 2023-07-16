@@ -29,3 +29,46 @@ body {
 .plattegrond {
   max-width: 500px;
   margin: 0 auto; }
+
+.container-programma {
+  max-width: 1000px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 2em; }
+
+.card {
+  background: var(--bg-beige); }
+  .card img {
+    height: 200px;
+    width: 100%;
+    object-fit: cover; }
+
+.more-info {
+  font-size: clamp(1.2rem, 1.5vw, 2rem);
+  margin-top: auto; }
+
+.card-content {
+  margin: 2em;
+  margin-top: 1em; }
+  .card-content p {
+    margin-left: 0;
+    margin-right: 0;
+    font-size: clamp(1rem, 1.2vw, 1.5rem); }
+
+.card {
+  display: grid;
+  /* Use grid instead of flex */
+  grid-template-rows: auto 1fr;
+  /* Define two rows: one for the image, one for the content */
+  gap: 1em;
+  /* Optional: Adds some space between the image and the content */ }
+
+.card img {
+  width: 100%;
+  /* Remove height to maintain aspect ratio */ }
+
+.card-content {
+  /* Now .card-content will not overlap with the image */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; }

@@ -68,7 +68,8 @@ body {
   --primary-color: #3498db;
   --secondary-color: #2ecc71;
   --text-color: #333;
-  --background-color: #f5f5f5; }
+  --background-color: #f5f5f5;
+  --bg-beige: #f5f2ee; }
 
 h1 {
   font-family: "Inter", sans-serif;
@@ -142,7 +143,7 @@ ul {
   font-size: clamp(1rem, 1.5vw, 1.5rem);
   line-height: 1.5;
   letter-spacing: 0.1rem;
-  background: #f5f2ee;
+  background: var(--bg-beige);
   color: black;
   width: 250px;
   border-radius: 100px;
@@ -386,8 +387,59 @@ body {
   max-width: 500px;
   margin: 0 auto; }
 
+.container-programma {
+  max-width: 1000px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 2em; }
+
+.card {
+  background: var(--bg-beige); }
+  .card img {
+    height: 200px;
+    width: 100%;
+    object-fit: cover; }
+
+.more-info {
+  font-size: clamp(1.2rem, 1.5vw, 2rem);
+  margin-top: auto; }
+
+.card-content {
+  margin: 2em;
+  margin-top: 1em; }
+  .card-content p {
+    margin-left: 0;
+    margin-right: 0;
+    font-size: clamp(1rem, 1.2vw, 1.5rem); }
+
+.card {
+  display: grid;
+  /* Use grid instead of flex */
+  grid-template-rows: auto 1fr;
+  /* Define two rows: one for the image, one for the content */
+  gap: 1em;
+  /* Optional: Adds some space between the image and the content */ }
+
+.card img {
+  width: 100%;
+  /* Remove height to maintain aspect ratio */ }
+
+.card-content {
+  /* Now .card-content will not overlap with the image */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; }
+
 .flex {
   display: flex; }
 
 .mt-2 {
   margin-top: 2em; }
+
+.mb-2 {
+  margin-bottom: 2em; }
+
+.flex-apart {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; }

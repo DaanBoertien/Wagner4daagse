@@ -1,0 +1,30 @@
+---
+layout: layouts/base.njk
+title: Wagner4daagse
+---
+
+<div class="container mt-2">
+  {{ programma.content | markdownify | safe }}
+</div>
+<div class="container container-programma mt-2 mb-2">
+  {% for item in collections.programma %}
+  <div class="card">
+    <img src="{{ item.data.photo }}" alt="{{ item.data.title }}" />
+    <div class="card-content flex-apart">
+      <div>
+        <h2>{{ item.data.title }}</h2>
+        {{ item.data.Samenvatting | markdownify | safe }}
+        {# {% for artist in item.data.artists %}
+        <p>{{ artist }}</p>
+        #} {# {% endfor %} #}
+        <p>{{ item.data.location }}</p>
+        {{ item.data.datetime | markdownify | safe }}
+      </div>
+      <a href="{{ item.url | url }}" class="more-info">Meer informatie</a>
+      {#
+      <p>{{ item.data.moreinfo }}</p>
+      #}
+    </div>
+  </div>
+  {% endfor %}
+</div>
