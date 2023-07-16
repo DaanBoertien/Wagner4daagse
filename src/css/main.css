@@ -390,8 +390,10 @@ body {
 .container-programma {
   max-width: 1000px;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
   grid-gap: 2em; }
+  @media (min-width: 768px) {
+    .container-programma {
+      grid-template-columns: repeat(2, 1fr); } }
 
 .card {
   background: var(--bg-beige); }
@@ -399,6 +401,9 @@ body {
     height: 200px;
     width: 100%;
     object-fit: cover; }
+    @media (min-width: 768px) {
+      .card img {
+        height: 260px; } }
 
 .more-info {
   font-size: clamp(1.2rem, 1.5vw, 2rem);

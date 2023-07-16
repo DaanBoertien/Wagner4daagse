@@ -37,7 +37,9 @@ body {
 .container-programma {
   max-width: 1000px;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
   grid-gap: 2em;
 }
 
@@ -47,6 +49,9 @@ body {
     height: 200px;
     width: 100%;
     object-fit: cover;
+    @media (min-width: 768px) {
+      height: 260px;
+    }
   }
 }
 
