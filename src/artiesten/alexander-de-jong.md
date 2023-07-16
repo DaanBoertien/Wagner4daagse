@@ -39,5 +39,6 @@ bio: >-
   Requiem. 
 
   Alexander studeerde tevens Rechten aan de universiteit van Leiden en Amsterdam.
+photo: /assets/uploads/Foto Alexander de Jong (high res).jpg
 masterclass_participant: true
 ---
