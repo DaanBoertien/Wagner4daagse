@@ -16,3 +16,8 @@ collections:
           - { label: "Content1", name: "content1", widget: "markdown" }
           - { label: "Content2", name: "content2", widget: "markdown" }
           - { label: "Content3", name: "content3", widget: "markdown" }
+      - file: "src/_data/informatie.yml"
+        label: "Informatie"
+        name: "informatie"
+        fields:
+          - { label: "Content", name: "content", widget: "markdown" }

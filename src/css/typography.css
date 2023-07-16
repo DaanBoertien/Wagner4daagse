@@ -46,7 +46,7 @@ h3 {
 
 p {
   font-family: "Inter", sans-serif;
-  font-size: clamp(1.6rem, 1.5vw, 2.4rem);
+  font-size: clamp(1.2rem, 1.5vw, 2rem);
   /* converted from 32px */
   line-height: 1.6;
   /* converted from 48px */
@@ -58,8 +58,10 @@ p {
 
 @media (min-width: 768px) {
   p,
-  .tickets-button {
-    margin-left: 7rem; } }
+  .tickets-button,
+  .ml-7 {
+    margin-left: 7rem;
+    margin-right: 7rem; } }
 
 .tickets-button {
   font-family: "Inter", sans-serif;
@@ -68,7 +70,7 @@ p {
   letter-spacing: 0.1rem;
   background: #f5f2ee;
   color: black;
-  width: 200px;
+  width: 250px;
   border-radius: 100px;
   padding: 0.3rem 1rem;
   text-decoration: none;

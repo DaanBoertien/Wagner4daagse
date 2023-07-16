@@ -1,11 +1,9 @@
 /* Modern CSS Reset */
-
 /* Box sizing rules */
 *,
 *::before,
 *::after {
-  box-sizing: border-box;
-}
+  box-sizing: border-box; }
 
 /* Remove default margin and padding */
 body,
@@ -25,24 +23,20 @@ blockquote,
 dl,
 dd {
   margin: 0;
-  padding: 0;
-}
+  padding: 0; }
 
 img {
-  max-width: 100%;
-}
+  max-width: 100%; }
 
 /* Remove list styles (bullets/numbers) */
 ul,
 ol {
-  list-style: none;
-}
+  list-style: none; }
 
 /* Remove default hyperlink styles */
 a {
   text-decoration: none;
-  color: inherit;
-}
+  color: inherit; }
 
 /* Remove default outline */
 button,
@@ -50,8 +44,7 @@ input,
 textarea,
 select,
 a:focus {
-  outline: none;
-}
+  outline: none; }
 
 /* Remove browser-specific styling */
 input[type="search"]::-webkit-search-cancel-button,
@@ -59,18 +52,15 @@ input[type="search"]::-webkit-search-decoration,
 input[type="search"]::-webkit-search-results-button,
 input[type="search"]::-webkit-search-results-decoration {
   -webkit-appearance: none;
-  appearance: none;
-}
+  appearance: none; }
 
 /* Set a base font size and line height */
 html {
   font-size: 16px;
-  line-height: 1.5;
-}
+  line-height: 1.5; }
 
 /* Set a default font family */
 body {
-  font-family: Inter, sans-serif;
-}
+  font-family: Inter, sans-serif; }
 
 /* Additional resets and customizations can be added below */

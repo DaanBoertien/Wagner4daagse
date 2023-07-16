@@ -52,7 +52,7 @@ h3 {
 
 p {
   font-family: "Inter", sans-serif;
-  font-size: clamp(1.6rem, 1.5vw, 2.4rem); /* converted from 32px */
+  font-size: clamp(1.2rem, 1.5vw, 2rem); /* converted from 32px */
   line-height: 1.6; /* converted from 48px */
   letter-spacing: 0.063rem; /* converted from 10px */
   color: #000000;
@@ -62,8 +62,10 @@ p {
 
 @media (min-width: 768px) {
   p,
-  .tickets-button {
+  .tickets-button,
+  .ml-7 {
     margin-left: 7rem;
+    margin-right: 7rem;
   }
 }
 
@@ -74,7 +76,7 @@ p {
   letter-spacing: 0.1rem;
   background: #f5f2ee;
   color: black;
-  width: 200px;
+  width: 250px;
   border-radius: 100px;
   padding: 0.3rem 1rem;
   text-decoration: none;
