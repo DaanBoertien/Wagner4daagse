@@ -28,6 +28,8 @@ collections:
   - name: "programma"
     label: "Programma"
     folder: "src/programma"
+    editor:
+      preview: false
     create: true
     slug: "{{slug}}"
     fields:
@@ -42,11 +44,14 @@ collections:
         valueField: "name"
         multiple: true
 
-  - name: "artists"
+  - name: "artiesten"
     label: "Artiesten"
     folder: "src/artiesten"
+    editor:
+      preview: false
     create: true
     slug: "{{slug}}"
     fields:
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Bio", name: "bio", widget: "markdown" }
+      - { label: "Foto", name: "photo", widget: "image" }
