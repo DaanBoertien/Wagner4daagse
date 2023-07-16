@@ -37,5 +37,6 @@ bio: >-
   Constantijn Huygens-prijs, de Gouden Ganzenveer, de Johannes Vermeer Prijs en de P.C. Hooft-
 
   prijs.
+photo: /assets/uploads/Arnon door Sander Voerman 2.jpg
 masterclass_participant: false
 ---
