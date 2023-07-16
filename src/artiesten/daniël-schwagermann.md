@@ -22,5 +22,6 @@ bio: >-
   het jongste lid van dit orkest en combineert deze baan met zijn studie aan het conservatorium in
 
   Den Haag.
+photo: /assets/uploads/daniel Schwagermann2.jpg
 masterclass_participant: false
 ---
