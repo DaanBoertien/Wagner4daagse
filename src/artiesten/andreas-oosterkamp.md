@@ -11,5 +11,6 @@ bio: >-
   Als kamermusicus speelde hij in verschillende koperensembles, waarmee hij onder andere te
 
   horen was op het Grachtenfestival.
+photo: /assets/uploads/Andreas Oosterkamp.jpg
 masterclass_participant: false
 ---
