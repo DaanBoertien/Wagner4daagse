@@ -3,6 +3,8 @@ backend:
   name: git-gateway
   branch: main
 
+locale: nl
+
 media_folder: "src/assets/uploads"
 public_folder: "/assets/uploads"
 collections:
@@ -27,6 +29,7 @@ collections:
           - { label: "Content", name: "content", widget: "markdown" }
   - name: "programma"
     label: "Programma"
+    label_singular: "Programma Onderdeel"
     folder: "src/programma"
     editor:
       preview: false
@@ -46,6 +49,7 @@ collections:
 
   - name: "artiesten"
     label: "Artiesten"
+    label_singular: "Artiest"
     folder: "src/artiesten"
     editor:
       preview: false
