@@ -1,0 +1,27 @@
+---
+title: Audiowandeling
+photo: /assets/uploads/mo_plattegrond-flyer-2023-1-paginas-2-gedraaid-pdf.jpg
+Samenvatting: >-
+  Auteur Arnon Grunberg sprak met festival-initiatiefnemer Marc Pantus. Samen
+  nemen ze
+
+  u mee op een audiowandeling langs iconische plekken in het Museumpark Orientalis en
+
+  het Begraafpark. Onderweg vertelt Arnon over uiteenlopende onderwerpen, zoals het
+
+  antisemitisme van Wagner en Wagner als schrijver, maar vooral over het thema van de
+
+  opera Parsifal: het lijden en de verlossing.
+artists:
+  - Arnon Grunberg
+location: Ophalen bij de kassa van het Museum, wandelen door Museumpark
+  Orientalis en Begraafpark Heilig Landstichting
+datetime: |-
+  do/vr/za/zo: Doorlopend.
+
+  Toegang: Gratis voor tickethouders en museumbezoekers.
+moreinfo: |-
+  Lees meer:
+  Biografie van Arnon Grunberg
+  Foto Arnon Grunberg
+---
