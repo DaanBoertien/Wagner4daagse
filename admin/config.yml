@@ -59,3 +59,9 @@ collections:
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Bio", name: "bio", widget: "markdown" }
       - { label: "Foto", name: "photo", widget: "image", required: false }
+      - {
+          label: "Deelnemer Masterclass",
+          name: "masterclass_participant",
+          widget: "boolean",
+          default: false,
+        }
