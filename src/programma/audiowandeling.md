@@ -1,7 +1,7 @@
 ---
 tags: programma
 title: Audiowandeling
-photo: /assets/uploads/mo_plattegrond-flyer-2023-1-paginas-2-gedraaid-pdf.jpg
+photo: /assets/uploads/Arnon door Sander Voerman 2.jpg
 Samenvatting: >-
   Auteur Arnon Grunberg sprak met festival-initiatiefnemer Marc Pantus. Samen
   nemen ze
