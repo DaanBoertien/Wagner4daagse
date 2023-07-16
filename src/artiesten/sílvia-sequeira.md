@@ -1,0 +1,23 @@
+---
+name: Sílvia Sequeira
+bio: >-
+  Sílvia Sequeira, geboren in Portugal en woonachtig in Maastricht, was lid van
+  de Dutch National
+
+  Opera Studio in Amsterdam. Ze was laureate van de Koningin Elisabethwedstrijd 2023 in Brussel,
+
+  waar ze de publieksprijs won; Zij was de winnares van het televisieprogramma ARIA en won de 2e
+
+  prijs, de beste dramatische stem, een speciale prijs en de publieksprijs in het Concurso Ebe
+
+  Stignani. Silvia won vervolgens de 3e prijs in het Concurso Vinceró, de publieksprijs in de
+
+  competitie Ciclo Lousada en was de winnaar van de Wagner- en de publieksprijs op het IVC van ’s
+
+  Hertogenbosch in 2022. In 2021 won ze de 2e prijs op de Portugese Rotary Foundation-wedstrijd.
+
+  In het operarepertoire viel Sílvia op in de rollen van Fiordiligi (Cosi fan tutte - Mozart), Giulietta (Les
+
+  Contes d&#39;Hoffman – Offenbach) Silvia (Zanetto – Mascagni) en Micaela (Carmen – Bizet).
+masterclass_participant: true
+---
