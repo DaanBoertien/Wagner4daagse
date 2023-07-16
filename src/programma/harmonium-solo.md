@@ -1,7 +1,7 @@
 ---
 tags: programma
 title: Harmonium solo
-photo: /assets/uploads/drik luijmes.jpg
+photo: /assets/uploads/drik luijmes gecentreerd.jpg
 Samenvatting: >-
   Solo Harmoniumrecital Dirk Luijmes
 
