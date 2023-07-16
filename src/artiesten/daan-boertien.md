@@ -33,5 +33,6 @@ bio: >-
   Concertgebouw, TivoliVredenburg, de Nationale Opera en de Elbphilharmonie in Hamburg. Ook is
 
   hij regelmatig te horen op NPO Radio 4 en te zien bij Podium Klassiek.
+photo: /assets/uploads/DaanBoertienSebastianGaltier.jpg
 masterclass_participant: false
 ---
