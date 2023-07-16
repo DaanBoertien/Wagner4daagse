@@ -44,7 +44,8 @@ h3 {
   background: white;
   white-space: nowrap; }
 
-p {
+p,
+ul {
   font-family: "Inter", sans-serif;
   font-size: clamp(1.2rem, 1.5vw, 2rem);
   /* converted from 32px */
@@ -58,6 +59,7 @@ p {
 
 @media (min-width: 768px) {
   p,
+  ul,
   .tickets-button,
   .ml-7 {
     margin-left: 7rem;

@@ -50,7 +50,8 @@ h3 {
   // }
 }
 
-p {
+p,
+ul {
   font-family: "Inter", sans-serif;
   font-size: clamp(1.2rem, 1.5vw, 2rem); /* converted from 32px */
   line-height: 1.6; /* converted from 48px */
@@ -62,6 +63,7 @@ p {
 
 @media (min-width: 768px) {
   p,
+  ul,
   .tickets-button,
   .ml-7 {
     margin-left: 7rem;
