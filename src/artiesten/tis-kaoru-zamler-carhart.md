@@ -35,5 +35,6 @@ bio: >-
   kunstenaar werkt Tis samen met hun zoon Vitaly Zamler. Hun werk is te zien bij Galerie Mhaata in
 
   Brussel, of online op tiskaoru.com.
+photo: /assets/uploads/Tis_Kaoru.jpeg
 masterclass_participant: false
 ---
