@@ -1,8 +1,9 @@
 ---
-tags: programma
+moreinfo: lees meer over de achtergrond van de voorstelling Parsifal, acte 3 op
+  <https://parsifal3.nl/>
 layout: layouts/programmaonderdeel.njk
 title: Opera
-photo: /assets/uploads/mo_plattegrond-flyer-2023-1-paginas-2-gedraaid-pdf.jpg
+photo: /assets/uploads/058ac038-4aee-4735-8fc7-ec7cf6df111f.jpg
 Samenvatting: >-
   Parsifal, acte 3
 
@@ -25,10 +26,10 @@ artists:
   - Merlijn Runia
   - Marc Pantus
 location: Cenakelkerk
+tags: programma
 datetime: |-
   do/vr/za: 20.00-21.30
   zo: 17.00-18.30
 
   Toegang: €35
-moreinfo: Verwijzen naar de aparte site?
 ---
