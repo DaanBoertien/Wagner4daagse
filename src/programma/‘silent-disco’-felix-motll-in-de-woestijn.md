@@ -82,7 +82,7 @@ Samenvatting: >-
 
   kunt Wagner bijna aanraken.
 artists:
-  - Marc Pantus
+  - Felix Mottl
 location: Woestijn, Museumpark Orientalis
 tags: programma
 datetime: |-
