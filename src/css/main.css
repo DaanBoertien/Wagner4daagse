@@ -480,6 +480,23 @@ body {
   width: 100%;
   height: 100%; }
 
+.logo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 20px; }
+
+@media screen and (min-width: 600px) {
+  .logo-grid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); } }
+
+@media screen and (min-width: 800px) {
+  .logo-grid {
+    grid-template-columns: repeat(4, 1fr); } }
+
+.logo-item img {
+  width: 100%;
+  height: auto; }
+
 .flex {
   display: flex; }
 

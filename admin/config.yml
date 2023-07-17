@@ -57,6 +57,12 @@ collections:
           preview: false
         fields:
           - { label: "Content", name: "content", widget: "markdown" }
+          - label: "Logos"
+            name: "logos"
+            widget: "list"
+            fields:
+              - { label: "Image", name: "image", widget: "image" }
+              - { label: "Alt Text", name: "alt", widget: "string" }
   - name: "programma"
     label: "Programma"
     label_singular: "Programma Onderdeel"

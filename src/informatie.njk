@@ -5,4 +5,11 @@ title: Wagner4daagse
 
 <div class="container mt-2">
   {{ informatie.content | markdownify | safe }}
+  <div class="logo-grid">
+    {% for logo in informatie.logos %}
+    <div class="logo-item">
+      <img src="{{ logo.image }}" alt="{{ logo.alt }}" />
+    </div>
+    {% endfor %}
+  </div>
 </div>
