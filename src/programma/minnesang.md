@@ -13,7 +13,7 @@ Samenvatting: >-
 
   Parsifal onder meer op dit gedicht.
 artists:
-  - Marc Pantus
+  - tis-kaoru-zamler-carhart
 location: "locatie: Beth Juda - Synagoge, Museumpark Orientalis"
 datetime: |-
   do/vr/za: 15.00-15.45 en 17.00-17.45
