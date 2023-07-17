@@ -1,16 +1,12 @@
 ---
 title: Cosima bij Pilatus
 photo: /assets/uploads/paleis-van-pilatus.jpg
-Samenvatting: >-
-  De jonge blazers van het Cosima Koperkwintet spelen werken van Wagner en
-
-  Mendelssohn op de binnenplaats van het Paleis van Pilatus: een prachtige plek voor een
-
-  openluchtconcert. Het programma wordt gelardeerd met fragmenten uit de dagboeken
-
-  van Cosima Wagner, minnares en later vrouw van Richard Wagner. De teksten worden
-
-  gesproken door deelnemers aan de masterclass van Eva-Maria Westbroek.
+Samenvatting: "De jonge blazers van het Cosima Koperkwintet spelen werken van
+  Wagner en Mendelssohn op de binnenplaats van het Paleis van Pilatus: een
+  prachtige plek voor een openluchtconcert. Het programma wordt gelardeerd met
+  fragmenten uit de dagboeken van Cosima Wagner, minnares en later vrouw van
+  Richard Wagner. De teksten worden gesproken door deelnemers aan de masterclass
+  van Eva-Maria Westbroek."
 artists:
   - daniël-schwagermann
   - janire-de-paz-rivas
