@@ -1,5 +1,7 @@
 ---
 name: Daniël Schwagermann
+tags:
+  - artiesten
 bio: >-
   Daniël begon op 9-jarige leeftijd Euphonium te spelen omdat zijn moeder hem
   aanmoedigde om

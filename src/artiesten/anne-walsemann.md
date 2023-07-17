@@ -1,5 +1,7 @@
 ---
 name: Anne Walsemann
+tags:
+  - artiesten
 bio: >-
   Anne Walsemann (84) was én showdanseres in het Parijse Lido én een van de
   eersten in

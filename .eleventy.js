@@ -39,6 +39,22 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+
+ 
+    eleventyConfig.addCollection("artistMap", function(collectionApi) {
+      let artistMap = {};
+      collectionApi.getFilteredByTag("artiesten").forEach((artist) => {
+        artistMap[artist.fileSlug] = artist;
+      });
+      console.log(artistMap);  // Add this line to print the map to the console
+      return artistMap;
+    });
+  
+  
+    // ...rest of your config
+  
+  
+
   eleventyConfig.setLibrary("md", markdownLibrary);
   eleventyConfig.addFilter('markdownify', (markdownString) => {
     return markdownLibrary.render(markdownString);

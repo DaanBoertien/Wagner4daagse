@@ -1,5 +1,7 @@
 ---
 name: Felix Mottl
+tags:
+  - artiesten
 bio: >-
   Felix Josef von Mottl (1856 - 1911) was een Oostenrijkse dirigent en
   componist. Hij werd

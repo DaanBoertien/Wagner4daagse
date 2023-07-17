@@ -1,5 +1,7 @@
 ---
 name: Merlijn Runia
+tags:
+  - artiesten
 bio: >-
   Merlijn studeerde af aan de Dutch National Opera Academy, waar ze les kreeg
   van Sasja

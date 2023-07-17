@@ -138,6 +138,8 @@ body {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   gap: 20px;
+  max-width: 800px;
+  margin-inline: auto;
 }
 
 @media screen and (min-width: 600px) {
@@ -152,7 +154,17 @@ body {
   }
 }
 
+.logo-item {
+  display: flex;
+  justify-content: center; /* Align horizontally */
+  align-items: center; /* Align vertically */
+  overflow: hidden; /* In case the images are larger than the div */
+  background: rgba(0, 0, 0, 0.1);
+  aspect-ratio: 1 / 1; /* Makes the logo container square */
+  padding: 1em; /* Adds space around the logos */
+}
+
 .logo-item img {
-  width: 100%;
+  max-width: 100%;
   height: auto;
 }

@@ -13,4 +13,6 @@ bio: >-
   horen was op het Grachtenfestival.
 photo: /assets/uploads/Andreas Oosterkamp.jpg
 masterclass_participant: false
+tags:
+  - artiesten
 ---

@@ -1,5 +1,7 @@
 ---
 name: Janire de Paz Rivas
+tags:
+  - artiesten
 bio: >-
   Geboren in Baskenland, studeerde Janire daar tot ze 18 jaar oud was. Na haar
   eerste bachelorjaar

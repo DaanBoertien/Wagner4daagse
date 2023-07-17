@@ -1,5 +1,7 @@
 ---
 name: Sílvia Sequeira
+tags:
+  - artiesten
 bio: >-
   Sílvia Sequeira, geboren in Portugal en woonachtig in Maastricht, was lid van
   de Dutch National

@@ -1,5 +1,7 @@
 ---
 name: Dirk Luijmes
+tags:
+  - artiesten
 bio: >-
   Na zijn conservatoriumopleiding (orgel, klavecimbel, kerkmuziek) en
   universiteitsstudie

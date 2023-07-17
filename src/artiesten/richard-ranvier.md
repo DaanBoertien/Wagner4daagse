@@ -1,5 +1,7 @@
 ---
 name: Richard Ranvier
+tags:
+  - artiesten
 bio: Mijn naam is Richard Ranvier, ik ben 22 jaar en kom uit Frankrijk. Ik speel
   trompet sinds ik 7 jaar oud ben. Op dit moment studeer ik aan het
   Conservatorium van Amsterdam in de bacheloropleiding. Ik begon met

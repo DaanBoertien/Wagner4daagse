@@ -1,5 +1,7 @@
 ---
 name: Helena Koonings
+tags:
+  - artiesten
 bio: >-
   De Braziliaans-Nederlandse sopraan Helena Koonings begon haar zangstudie in
   2012 bij

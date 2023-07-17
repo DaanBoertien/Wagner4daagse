@@ -80,7 +80,7 @@ collections:
         widget: "relation"
         collection: "artiesten"
         searchFields: ["name"]
-        valueField: "name"
+        valueField: "{{filename}}"
         multiple: true
       - { label: "Locatie", name: "location", widget: "string" }
       - { label: "Data en Tijden", name: "datetime", widget: "markdown" }

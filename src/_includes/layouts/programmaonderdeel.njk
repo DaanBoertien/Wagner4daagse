@@ -35,10 +35,11 @@ layout: layouts/base.njk
 
   <p>{{ page.data.description }}</p>
   <!-- Display the event description -->
-
-  {% for artistName in programma.artists %} {% set artist =
-  collections.artiesten | getArtistData(artistName) %}
-  <h2>{{ artist.data.name }}</h2>
+  {% for artistSlug in artists %}
+  {% set artist = collections["artistMap"][artistSlug] %}
+  <h2>{{ artist.data.name }}</h2>  {# assuming 'title' is the correct field for the artist's name #}
   <p>{{ artist.data.bio }}</p>
-  {# Add more artist details as needed... #} {% endfor %}
+{% endfor %}
+
+
 </article>

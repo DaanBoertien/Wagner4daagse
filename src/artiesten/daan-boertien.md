@@ -1,5 +1,7 @@
 ---
 name: Daan Boertien
+tags:
+  - artiesten
 bio: >-
   Daan Boertien is een Nederlandse concertpianist die zich heeft gespecialiseerd
   in liedbegeleiding.

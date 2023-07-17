@@ -1,5 +1,7 @@
 ---
 name: Arnon Grunberg
+tags:
+  - artiesten
 bio: >-
   Arnon Grunberg (Amsterdam, 1971) is een gevierde en vaak bekroonde
   romanschrijver,

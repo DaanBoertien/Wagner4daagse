@@ -1,5 +1,7 @@
 ---
 name: Eva-Maria Westbroek
+tags:
+  - artiesten
 bio: >-
   Eva-Maria Westbroek is ongetwijfeld een van de meest geprezen en gewaardeerde
   operazangers

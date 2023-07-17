@@ -1,5 +1,7 @@
 ---
 name: Hans-Erik Dijkstra
+tags:
+  - artiesten
 bio: >-
   Hans-Erik Dijkstra studeerde piano (bij Tamara Pospiszyl) en compositie (bij
   David

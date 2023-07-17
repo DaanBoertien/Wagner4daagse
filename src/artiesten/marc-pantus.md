@@ -1,5 +1,7 @@
 ---
 name: Marc Pantus
+tags:
+  - artiesten
 bio: >-
   Marc studeerde aan het Koninklijk Conservatorium en het Utrechts
   Conservatorium bij Udo

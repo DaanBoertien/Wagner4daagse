@@ -1,5 +1,7 @@
 ---
 name: Tis Kaoru Zamler-Carhart
+tags:
+  - artiesten
 bio: >-
   Tis Kaoru Zamler-Carhart (hen/hun) is een in New York en Brussel gebaseerde
   trans non-binaire

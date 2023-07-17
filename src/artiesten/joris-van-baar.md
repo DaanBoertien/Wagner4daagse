@@ -1,5 +1,7 @@
 ---
 name: Joris van Baar
+tags:
+  - artiesten
 bio: >-
   Bas-bariton Joris van Baar zong recent de titelrol in Divorce of Figaro (W.A.
   Mozart & N.

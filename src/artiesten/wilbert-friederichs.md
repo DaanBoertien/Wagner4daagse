@@ -1,5 +1,7 @@
 ---
 name: Wilbert Friederichs
+tags:
+  - artiesten
 bio: >-
   Wilbert Friederichs is zanger en koorleider, tekstschrijver en componist. Hij
   schreef honderden

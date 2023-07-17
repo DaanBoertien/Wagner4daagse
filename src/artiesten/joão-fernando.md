@@ -1,5 +1,7 @@
 ---
 name: João Fernando
+tags:
+  - artiesten
 bio: >-
   João Pedro Pimentel Fernando werd geboren in Coimbra – Portugal. Hij begon
   zijn muzikale studies in de banda filarmónica de Covões - Coimbra. Vervolgens

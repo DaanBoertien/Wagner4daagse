@@ -15,4 +15,6 @@ bio: >-
   Sinds oktober 2010 doceert hij muziekfilologie aan het Conservatorium van Amsterdam. Van 2000 tot 2005 was hij organist van de kerk van S. Giuseppe e S. Marcellina en van 2003 tot 2007 van de kerk van S. Angela Merici in Milaan.
 photo: /assets/uploads/andrea.webp
 masterclass_participant: false
+tags:
+  - artiesten
 ---

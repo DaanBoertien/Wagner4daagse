@@ -1,5 +1,7 @@
 ---
 name: Zinzi Frohwein
+tags:
+  - artiesten
 bio: >-
   Zinzi Frohwein studeerde van 2009-2013 aan het Koninklijk Conservatorium bij
   Sasja Hunnego. Ze

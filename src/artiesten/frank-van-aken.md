@@ -1,5 +1,7 @@
 ---
 name: Frank van Aken
+tags:
+  - artiesten
 bio: >-
   Frank studeerde zang in Utrecht en aan de Opera Studio van het Koninklijk
   Conservatorium in Den

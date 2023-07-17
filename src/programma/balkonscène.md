@@ -7,10 +7,10 @@ Samenvatting: Net als tijdens de Bayreuther Festspiele kondigt vanaf het balkon
   (in ons geval het balkon van de Cenakelkerk) een fanfare de aanvang van de
   opera aan. Deze editie van de Wagner4daagse is dat Parsifal, acte 3.
 artists:
-  - Andreas Oosterkamp
-  - Daniël Schwagermann
-  - João Fernando
-  - Richard Ranvier
+  - andreas-oosterkamp
+  - daniël-schwagermann
+  - joão-fernando
+  - richard-ranvier
 location: Cenakelkerk
 order: 6
 datetime: |-
