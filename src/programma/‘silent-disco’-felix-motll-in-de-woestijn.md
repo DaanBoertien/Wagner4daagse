@@ -26,30 +26,29 @@ moreinfo: >-
 
   Van 1881 tot 1903 was hij chef-dirigent van de Opera van Karlsruhe en stond alom bekend om zijn werk daar, met name in Wagner, Berlioz en Chabrier, wiens opera's hij verdedigde. Hij orkestreerde ook Chabrier's Bourrée fantasque en Trois valses romantiques, en arrangeerde een populaire suite met orkestrale fragmenten uit de opera's van Christoph Willibald Gluck. In latere jaren, vooral als dirigent van Wagner, bezocht hij Amsterdam, Londen en New York, waar hij in 1903 gastdirigeerde bij de Metropolitan Opera. In 1904 werd hij benoemd tot directeur van de Academie van Beeldende Kunsten in Berlijn.\
 
-
   In juni 1907 speelde hij enkele pianorollen in met het Welte-Mignon pianola systeem, waaronder zijn eigen pianotranscripties van delen uit Parsifal en Tristan und Isolde . Op 21 juni 1911 kreeg hij een hartaanval terwijl hij zijn 100ste uitvoering van Tristan in München dirigeerde. 11 dagen later, op 2 juli, stierf Mottl op 54-jarige leeftijd, maar niet voordat hij trouwde met zijn oude minnares, de sopraan Zdenka Faßbender.
 
   \
 
-  Programma:
+  Programma:\
 
   - Wagner Parsifal
 
-  - Vorspiel
 
-  - Einzug der Gralsritter
+  * Vorspiel
 
-  - Karfreitagszauber
+  * Einzug der Gralsritter
 
-  - Wagner Lohengrin
+  * Karfreitagszauber
 
-  - Vorspiel
+  * Wagner Lohengrin
 
-  - Wagner Tristan und Isolde
+  * Vorspiel
 
-  - Vorspiel & Isoldes Liebestod
+  * Wagner Tristan und Isolde
 
-  Duur per fragment ongeveer 10 minuten.
+  * Vorspiel & Isoldes Liebestod
+    Duur per fragment ongeveer 10 minuten.
 layout: layouts/programmaonderdeel.njk
 order: 7
 datetime: |-
