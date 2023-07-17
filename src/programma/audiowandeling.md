@@ -1,8 +1,5 @@
 ---
-tags: programma
-layout: layouts/programmaonderdeel.njk
 title: Audiowandeling
-order: 2
 photo: /assets/uploads/Arnon door Sander Voerman 2.jpg
 Samenvatting: >-
   Auteur Arnon Grunberg sprak met festival-initiatiefnemer Marc Pantus. Samen
@@ -16,15 +13,18 @@ Samenvatting: >-
 
   opera Parsifal: het lijden en de verlossing.
 artists:
-  - Arnon Grunberg
+  - arnon-grunberg
 location: Ophalen bij de kassa van het Museum, wandelen door Museumpark
   Orientalis en Begraafpark Heilig Landstichting
-datetime: |-
-  do/vr/za/zo: Doorlopend.
-
-  Toegang: Gratis voor tickethouders en museumbezoekers.
 moreinfo: |-
   Lees meer:
   Biografie van Arnon Grunberg
   Foto Arnon Grunberg
+layout: layouts/programmaonderdeel.njk
+order: 2
+datetime: |-
+  do/vr/za/zo: Doorlopend.
+
+  Toegang: Gratis voor tickethouders en museumbezoekers.
+tags: programma
 ---
