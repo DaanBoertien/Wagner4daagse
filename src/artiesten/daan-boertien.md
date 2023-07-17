@@ -6,9 +6,9 @@ bio: >-
   zangers als Benjamin Appl en Roderick Williams. Zijn debuut-cd met bariton
   Michael Wilmering werd door de internationale pers lovend ontvangen. Sinds
   2020 is Daan als Associate Artist verbonden aan de Dutch National Opera
-  Studio.
-
-  Hij won in 2020 de Berenbergprijs, in 2019 de DAAD-prijs en in 2018 de publieksprijs van Dutch Classical Talent samen met bariton Raoul Steffani. Verder won hij bij het Gustav-Mahler-Wettbewerb in Hamburg de 1e prijs.
+  Studio. Hij won in 2020 de Berenbergprijs, in 2019 de DAAD-prijs en in 2018 de
+  publieksprijs van Dutch Classical Talent samen met bariton Raoul Steffani.
+  Verder won hij bij het Gustav-Mahler-Wettbewerb in Hamburg de 1e prijs.
 
   Daan studeerde bij David Kuyken aan het CvA en aan de HfMT-Hamburg, bij de Duitse liedspecialist Burkhard Kehring. Onlangs kreeg hij belangrijke muzikale impulsen van György Kurtág en Alfred Brendel.
 
