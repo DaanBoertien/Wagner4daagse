@@ -1,15 +1,11 @@
 ---
 title: Masterclass Eva-Maria Westbroek
 photo: /assets/uploads/eva-maria-westbroek-gecentreerd.jpg
-Samenvatting: >-
-  Wereldbefaamde sopraan Eva-Maria Westbroek vertolkte Wagner op podia van
-  Bayreuth
-
-  tot New York en Milaan – tijdens deze Wagner4daagse krijgen zes zangers de kans om
-
-  met haar te werken. En u krijgt de kans een kijkje in de keuken te nemen, waar gewerkt
-
-  wordt aan operarepertoire van verschillende componisten.
+Samenvatting: Wereldbefaamde sopraan Eva-Maria Westbroek vertolkte Wagner op
+  podia van Bayreuth tot New York en Milaan – tijdens deze Wagner4daagse krijgen
+  zes zangers de kans om met haar te werken. En u krijgt de kans een kijkje in
+  de keuken te nemen, waar gewerkt wordt aan operarepertoire van verschillende
+  componisten.
 artists:
   - alexander-de-jong
   - helena-koonings
