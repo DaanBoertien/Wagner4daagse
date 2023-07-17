@@ -19,7 +19,7 @@ datetime: |-
   do/vr/za: 15.00-15.45 en 17.00-17.45
   zo: 12.00-12.45 en 14.00-14.45
 
-  Toegangsprijs: €10
+  Toegangsprijs: €10,-
 moreinfo: >-
   In Duitstalige gebieden bloemde er van de 12de t/m de 15de eeuw een rijk
   muzikaal en
