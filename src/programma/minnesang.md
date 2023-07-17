@@ -1,9 +1,6 @@
 ---
-tags: programma
-layout: layouts/programmaonderdeel.njk
 title: Minnesang
-photo: /assets/uploads/Tis_Kaoru.jpeg
-order: 4
+photo: /assets/uploads/orientalis-synanoge.jpg
 Samenvatting: >-
   In de sfeervolle synagoge luistert u naar muziek van de Minnesänger.
   Kunstenaar,
@@ -40,4 +37,6 @@ moreinfo: >-
   Duitstalige wereld, waaronder in Oost-Nederlandse dialecten, maar ook in het Yiddish voor
 
   middeleeuwse Joodse publieken. Die worden allemaal in dit programma gepresenteerd.
+layout: layouts/programmaonderdeel.njk
+tags: programma
 ---
