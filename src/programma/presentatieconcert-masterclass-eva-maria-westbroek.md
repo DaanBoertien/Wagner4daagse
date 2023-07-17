@@ -1,6 +1,4 @@
 ---
-tags: programma
-layout: layouts/programmaonderdeel.njk
 title: Presentatieconcert masterclass Eva-Maria Westbroek
 photo: /assets/uploads/eva-maria-westbroek-gecentreerd.jpg
 Samenvatting: >-
@@ -19,17 +17,20 @@ Samenvatting: >-
 
   Giuseppe Verdi, Giacomo Puccini, Arrigo Boito en Alban Berg komen aan bod.
 artists:
-  - Alexander de Jong
-  - Daan Boertien
-  - Hans-Erik Dijkstra
-  - Helena Koonings
-  - Sílvia Sequeira
-  - Merlijn Runia
-  - Joris van Baar
+  - alexander-de-jong
+  - daan-boertien
+  - hans-erik-dijkstra
+  - helena-koonings
+  - merlijn-runia
+  - joris-van-baar
+  - sílvia-sequeira
+  - zinzi-frohwein
 location: Cenakelkerk
+moreinfo: Meer Informatie
+layout: layouts/programmaonderdeel.njk
 order: 9
 datetime: |-
   Zo: 13.00-14.00 uur
   Toegang: €17,50
-moreinfo: Meer Informatie
+tags: programma
 ---
