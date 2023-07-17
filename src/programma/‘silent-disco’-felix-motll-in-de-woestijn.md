@@ -1,4 +1,6 @@
 ---
+artists:
+  - Felix Mottl
 moreinfo: >-
   Felix Josef von Mottl (1856 - 1911) was een Oostenrijkse dirigent en
   componist. Hij werd
@@ -68,9 +70,9 @@ moreinfo: >-
 
   Duur per fragment ongeveer 10 minuten.
 layout: layouts/programmaonderdeel.njk
-title: ‘Silent Disco’ Felix Motll in de woestijn
 order: 7
-photo: /assets/uploads/mottlrichterlevi-1536x1120.jpg
+title: ‘Silent Disco’ Felix Motll in de woestijn
+photo: /assets/uploads/orientalis-woestijn.jpg
 Samenvatting: >-
   Op een beschutte plek in de woestijn luistert u in alle rust naar de
   onthaastende opnames
@@ -82,11 +84,9 @@ Samenvatting: >-
   kunnen beluisteren. Neem plaats in een gemakkelijke stoel, zet een koptelefoon op – en u
 
   kunt Wagner bijna aanraken.
-artists:
-  - Felix Mottl
 location: Woestijn, Museumpark Orientalis
-tags: programma
 datetime: |-
   do/vr/za/zo: Doorlopend
   Toegang: Gratis voor tickethouders en museumbezoekers.
+tags: programma
 ---
