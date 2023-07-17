@@ -28,10 +28,8 @@ moreinfo: >-
 
   In juni 1907 speelde hij enkele pianorollen in met het Welte-Mignon pianola systeem, waaronder zijn eigen pianotranscripties van delen uit Parsifal en Tristan und Isolde . Op 21 juni 1911 kreeg hij een hartaanval terwijl hij zijn 100ste uitvoering van Tristan in München dirigeerde. 11 dagen later, op 2 juli, stierf Mottl op 54-jarige leeftijd, maar niet voordat hij trouwde met zijn oude minnares, de sopraan Zdenka Faßbender.
 
-  \
 
   Programma:
-
 
   * Wagner Parsifal
 
