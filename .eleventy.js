@@ -46,7 +46,7 @@ module.exports = function(eleventyConfig) {
       collectionApi.getFilteredByTag("artiesten").forEach((artist) => {
         artistMap[artist.fileSlug] = artist;
       });
-      console.log(artistMap);  // Add this line to print the map to the console
+      
       return artistMap;
     });
   
