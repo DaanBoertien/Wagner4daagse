@@ -1,45 +1,40 @@
 ---
 layout: layouts/base.njk
 ---
-
-<article>
-  <header>
+<div class="container mt-2">
+    
+    <article>
     <h1>{{ title }}</h1>
-    {% if photo %}
-    <img src="{{ photo }}" alt="{{ title }}" />
-    {% endif %}
-  </header>
+    {{ Samenvatting | markdownify | safe }}
+    <h2>Locatie</h2>
+      <p>{{ location }}</p>
+    
+      <h2>Data en tijden</h2>
+      {{ datetime | markdownify | safe }}
+    
+      <h2>Meer informatie</h2>
+      {{ moreinfo | markdownify | safe }}
+   <h2>Deelnemers</h2>
+      
+    <div class="container-programma mb-2">
+        {% for artistSlug in artists %}
+        {% set artist = collections["artistMap"][artistSlug] %}
+        <div class="card card-programma-onderdeel">
+        <img src="{{ artist.data.photo }}" alt="{{ artist.data.name }}" />
+        <div class="card-content flex-apart">
+          <div>
+            <h2>{{ artist.data.name }}</h2>
+            {{ artist.data.bio | markdownify | safe }}
+    
+          </div>
+    
+    
+        </div>
+    </div>
+    
+        {% endfor %}
 
-  <p>{{ Samenvatting }}</p>
-
-  {% if artists %}
-  <h2>Artists</h2>
-  <ul>
-    {% for artist in artists %}
-    <li>{{ artist }}</li>
-    {% endfor %}
-  </ul>
-  {% endif %}
-
-  <h2>Location</h2>
-  <p>{{ location }}</p>
-
-  <h2>DateTime</h2>
-  <p>{{ datetime }}</p>
-
-  <h2>More Info</h2>
-  <p>{{ moreinfo }}</p>
-
-  <h1>{{ page.data.title }}</h1>
-  <!-- Display the event title -->
-
-  <p>{{ page.data.description }}</p>
-  <!-- Display the event description -->
-  {% for artistSlug in artists %}
-  {% set artist = collections["artistMap"][artistSlug] %}
-  <h2>{{ artist.data.name }}</h2>  {# assuming 'title' is the correct field for the artist's name #}
-  <p>{{ artist.data.bio }}</p>
-{% endfor %}
-
-
-</article>
+    
+    
+    </article>
+</div>
