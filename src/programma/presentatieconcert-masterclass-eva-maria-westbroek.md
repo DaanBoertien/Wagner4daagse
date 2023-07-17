@@ -27,6 +27,7 @@ artists:
   - Merlijn Runia
   - Joris van Baar
 location: Cenakelkerk
+order: 9
 datetime: |-
   Zo: 13.00-14.00 uur
   Toegang: €17,50

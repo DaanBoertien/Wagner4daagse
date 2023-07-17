@@ -3,6 +3,7 @@ tags: programma
 layout: layouts/programmaonderdeel.njk
 title: Masterclass Eva-Maria Westbroek
 photo: /assets/uploads/eva-maria-westbroek-gecentreerd.jpg
+order: 3
 Samenvatting: >-
   Wereldbefaamde sopraan Eva-Maria Westbroek vertolkte Wagner op podia van
   Bayreuth

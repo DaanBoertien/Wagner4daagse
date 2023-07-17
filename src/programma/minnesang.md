@@ -3,6 +3,7 @@ tags: programma
 layout: layouts/programmaonderdeel.njk
 title: Minnesang
 photo: /assets/uploads/Tis_Kaoru.jpeg
+order: 4
 Samenvatting: >-
   In de sfeervolle synagoge luistert u naar muziek van de Minnesänger.
   Kunstenaar,

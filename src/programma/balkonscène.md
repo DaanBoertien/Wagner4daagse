@@ -12,6 +12,7 @@ artists:
   - João Fernando
   - Richard Ranvier
 location: Cenakelkerk
+order: 6
 datetime: |-
   do/vr/za: 19.45
   zo: 16.45

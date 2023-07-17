@@ -3,6 +3,7 @@ moreinfo: lees meer over de achtergrond van de voorstelling Parsifal, acte 3 op
   <https://parsifal3.nl/>
 layout: layouts/programmaonderdeel.njk
 title: Opera
+order: 1
 photo: /assets/uploads/058ac038-4aee-4735-8fc7-ec7cf6df111f.jpg
 Samenvatting: >-
   Parsifal, acte 3

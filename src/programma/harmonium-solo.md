@@ -13,9 +13,10 @@ moreinfo: >-
   Liszt Präludium und Fuge über den Namen Bach (arr. D. Luijmes)
 layout: layouts/programmaonderdeel.njk
 title: Harmoniumrecital Dirk Luijmes
+order: 8
 photo: /assets/uploads/nebo-foto-rob-joseph.jpg
 Samenvatting: >-
-  
+
   Harmoniumvirtuoos Dirk Luijmes stelde een programma samen met werken van Wagner,
 
   Liszt en Bruckner. Het belooft een muzikale kleurendoos, want het harmonium is een

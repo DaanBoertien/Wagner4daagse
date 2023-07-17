@@ -32,6 +32,12 @@ module.exports = function(eleventyConfig) {
     // console.log('Returned artist data:', artist);
     return artist;
   });
+  // Sort 'programma' collection by 'sort_order' attribute
+  eleventyConfig.addCollection("sortedProgramma", function(collection) {
+    return collection.getFilteredByTag("programma").sort(function(a, b) {
+      return a.data.order - b.data.order;
+    });
+  });
 
   eleventyConfig.setLibrary("md", markdownLibrary);
   eleventyConfig.addFilter('markdownify', (markdownString) => {

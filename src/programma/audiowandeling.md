@@ -2,6 +2,7 @@
 tags: programma
 layout: layouts/programmaonderdeel.njk
 title: Audiowandeling
+order: 2
 photo: /assets/uploads/Arnon door Sander Voerman 2.jpg
 Samenvatting: >-
   Auteur Arnon Grunberg sprak met festival-initiatiefnemer Marc Pantus. Samen

@@ -7,7 +7,7 @@ title: Wagner4daagse
   {{ programma.content | markdownify | safe }}
 </div>
 <div class="container container-programma mt-2 mb-2">
-  {% for item in collections.programma %}
+  {% for item in collections.sortedProgramma %}
   <div class="card">
     <img src="{{ item.data.photo }}" alt="{{ item.data.title }}" />
     <div class="card-content flex-apart">

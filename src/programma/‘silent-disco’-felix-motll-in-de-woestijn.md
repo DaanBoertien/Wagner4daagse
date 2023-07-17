@@ -69,6 +69,7 @@ moreinfo: >-
   Duur per fragment ongeveer 10 minuten.
 layout: layouts/programmaonderdeel.njk
 title: ‘Silent Disco’ Felix Motll in de woestijn
+order: 7
 photo: /assets/uploads/mottlrichterlevi-1536x1120.jpg
 Samenvatting: >-
   Op een beschutte plek in de woestijn luistert u in alle rust naar de
