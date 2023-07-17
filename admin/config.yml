@@ -19,7 +19,18 @@ collections:
         fields:
           - { label: "Content1", name: "content1", widget: "markdown" }
           - { label: "Content2", name: "content2", widget: "markdown" }
-          - { label: "Content3", name: "content3", widget: "markdown" }
+          - {
+              label: "Content3",
+              name: "content3",
+              widget: "markdown",
+              required: false,
+            }
+          - {
+              label: "Youtube ID",
+              name: "youtubeID",
+              widget: "string",
+              required: false,
+            }
       - file: "src/_data/tickets.yml" # Add this section for the Tickets page
         label: "Tickets"
         name: "tickets"
