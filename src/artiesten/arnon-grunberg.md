@@ -13,9 +13,7 @@ bio: >-
   roman De dood in Taormina verscheen in 2021 en in 2023 verschijnt
   Waarheidsliefde en biefstuk. Essays over lezen en schrijven.
 
-  Grunberg schrijft columns, essays, recensies, korte verhalen en reportages voor diverse kranten, weekbladen en literaire tijdschriften zoals NRC Handelsblad, Vrij Nederland, Humo en de VPRO- Gids. Daarnaast levert hij bijdragen aan internationale kranten en tijdschriften, zoals Die Welt, Die Zeit, Libération, Ha’aretz en The New York Times. Grunberg houdt een weblog bij op [www.arnongrunberg.com](https://www.arnongrunberg.com/), schreef wekelijks als ‘De mensendokter’ een bijdrage voor Vrij Nederland en had jarenlang een dagelijkse column in de Volkskrant, Voetnoot, die in boekvorm werd gebundeld. Zijn werk is vertaald in 29 talen. Voor zijn oeuvre ontving hij onder andere de Constantijn Huygens-prijs, de Gouden Ganzenveer, de Johannes Vermeer Prijs en de P.C. Hooft-
-
-  prijs.
+  Grunberg schrijft columns, essays, recensies, korte verhalen en reportages voor diverse kranten, weekbladen en literaire tijdschriften zoals NRC Handelsblad, Vrij Nederland, Humo en de VPRO- Gids. Daarnaast levert hij bijdragen aan internationale kranten en tijdschriften, zoals Die Welt, Die Zeit, Libération, Ha’aretz en The New York Times. Grunberg houdt een weblog bij op [www.arnongrunberg.com](https://www.arnongrunberg.com/), schreef wekelijks als ‘De mensendokter’ een bijdrage voor Vrij Nederland en had jarenlang een dagelijkse column in de Volkskrant, Voetnoot, die in boekvorm werd gebundeld. Zijn werk is vertaald in 29 talen. Voor zijn oeuvre ontving hij onder andere de Constantijn Huygens-prijs, de Gouden Ganzenveer, de Johannes Vermeer Prijs en de P.C. Hooftprijs.
 photo: /assets/uploads/Arnon door Sander Voerman 2.jpg
 masterclass_participant: false
 tags:
