@@ -1,6 +1,20 @@
 ---
+title: ‘Silent Disco’ Felix Motll in de woestijn
+photo: /assets/uploads/orientalis-woestijn.jpg
+Samenvatting: >-
+  Op een beschutte plek in de woestijn luistert u in alle rust naar de
+  onthaastende opnames
+
+  van Felix Mottl. Mottl dirigeerde de allereerste Ring der Nibelungen, en speelde in 1907
+
+  een reeks stukken van Wagner in voor de pianola, zodat die we vandaag nog steeds
+
+  kunnen beluisteren. Neem plaats in een gemakkelijke stoel, zet een koptelefoon op – en u
+
+  kunt Wagner bijna aanraken.
 artists:
-  - Felix Mottl
+  - felix-mottl
+location: Woestijn, Museumpark Orientalis
 moreinfo: >-
   Felix Josef von Mottl (1856 - 1911) was een Oostenrijkse dirigent en
   componist. Hij werd
@@ -71,20 +85,6 @@ moreinfo: >-
   Duur per fragment ongeveer 10 minuten.
 layout: layouts/programmaonderdeel.njk
 order: 7
-title: ‘Silent Disco’ Felix Motll in de woestijn
-photo: /assets/uploads/orientalis-woestijn.jpg
-Samenvatting: >-
-  Op een beschutte plek in de woestijn luistert u in alle rust naar de
-  onthaastende opnames
-
-  van Felix Mottl. Mottl dirigeerde de allereerste Ring der Nibelungen, en speelde in 1907
-
-  een reeks stukken van Wagner in voor de pianola, zodat die we vandaag nog steeds
-
-  kunnen beluisteren. Neem plaats in een gemakkelijke stoel, zet een koptelefoon op – en u
-
-  kunt Wagner bijna aanraken.
-location: Woestijn, Museumpark Orientalis
 datetime: |-
   do/vr/za/zo: Doorlopend
   Toegang: Gratis voor tickethouders en museumbezoekers.
