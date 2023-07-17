@@ -17,6 +17,11 @@ collections:
         editor:
           preview: false
         fields:
+          - label: "Carrousel Foto's"
+            name: "carrouselImages"
+            widget: "list"
+            fields:
+              - { label: "Foto URL", name: "url", widget: "image" }
           - { label: "Content1", name: "content1", widget: "markdown" }
           - { label: "Content2", name: "content2", widget: "markdown" }
           - {

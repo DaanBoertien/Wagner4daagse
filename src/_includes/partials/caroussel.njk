@@ -2,28 +2,12 @@
   <!-- Slider main container -->
   <div class="swiper">
     <div class="swiper-wrapper">
+      {% for image in index.carrouselImages %}
       <div
         class="swiper-slide"
-        style="background-image: url('/assets/images/caroussel1.jpg')"
+        style="background-image: url('{{ image.url }}')"
       ></div>
-      <div
-        class="swiper-slide"
-        style="background-image: url('/assets/images/caroussel2.jpg')"
-      ></div>
-      <div
-        class="swiper-slide"
-        style="background-image: url('/assets/images/caroussel3.jpg')"
-      ></div>
-      <div
-        class="swiper-slide"
-        style="
-          background-image: url('/assets/images/Arabisch-dorp-scaled.jpeg');
-        "
-      ></div>
-      <div
-        class="swiper-slide"
-        style="background-image: url('/assets/images/heilig-landstichting.jpg')"
-      ></div>
+      {% endfor %}
     </div>
   </div>
 </section>
