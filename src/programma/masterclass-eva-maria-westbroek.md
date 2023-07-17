@@ -1,9 +1,6 @@
 ---
-tags: programma
-layout: layouts/programmaonderdeel.njk
 title: Masterclass Eva-Maria Westbroek
 photo: /assets/uploads/eva-maria-westbroek-gecentreerd.jpg
-order: 3
 Samenvatting: >-
   Wereldbefaamde sopraan Eva-Maria Westbroek vertolkte Wagner op podia van
   Bayreuth
@@ -14,18 +11,14 @@ Samenvatting: >-
 
   wordt aan operarepertoire van verschillende componisten.
 artists:
-  - Alexander de Jong
-  - Joris van Baar
-  - Eva-Maria Westbroek
-  - Sílvia Sequeira
-  - Helena Koonings
-  - Merlijn Runia
-  - Zinzi Frohwein
+  - alexander-de-jong
+  - helena-koonings
+  - joris-van-baar
+  - eva-maria-westbroek
+  - merlijn-runia
+  - zinzi-frohwein
+  - sílvia-sequeira
 location: Piet Gerritszaal
-datetime: |-
-  do/vr/za: 14.00-17.00
-
-  Toegang: €10,00
 moreinfo: |-
   Repertoire:
   Sílvia Sequiera, sopraan
@@ -67,4 +60,11 @@ moreinfo: |-
   Lieben, hassen, hoffen, zagen - Strauss, Ariadne auf Naxos
   Sois immobile - Rossini, Guillaume Tell
   Mein Sehnen, mein Wähnen - Korngold, Die tote Stadt
+layout: layouts/programmaonderdeel.njk
+order: 3
+datetime: |-
+  do/vr/za: 14.00-17.00
+
+  Toegang: €10,00
+tags: programma
 ---
