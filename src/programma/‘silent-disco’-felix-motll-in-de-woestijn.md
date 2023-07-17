@@ -30,10 +30,10 @@ moreinfo: >-
 
   \
 
-  Programma:\
+  Programma:
 
-  - Wagner Parsifal
 
+  * Wagner Parsifal
 
   * Vorspiel
 
