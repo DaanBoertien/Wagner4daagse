@@ -1,17 +1,12 @@
 ---
 title: Minnesang
 photo: /assets/uploads/orientalis-synanoge.jpg
-Samenvatting: >-
-  In de sfeervolle synagoge luistert u naar muziek van de Minnesänger.
-  Kunstenaar,
-
-  performer en middeleeuwenspecialist Tis Kaoru Zamler-Carhart vertelt u over de kunst
-
-  van de middeleeuwse minnezang. Ook vertelt Tis delen uit Parzival, de sage die rond
-
-  1200 geschreven werd door Wolfram von Eschenbach. Wagner baseerde zijn opera
-
-  Parsifal onder meer op dit gedicht.
+Samenvatting: In de sfeervolle synagoge luistert u naar muziek van de
+  Minnesänger. Kunstenaar, performer en middeleeuwenspecialist Tis Kaoru
+  Zamler-Carhart vertelt u over de kunst van de middeleeuwse minnezang. Ook
+  vertelt Tis delen uit Parzival, de sage die rond 1200 geschreven werd door
+  Wolfram von Eschenbach. Wagner baseerde zijn opera Parsifal onder meer op dit
+  gedicht.
 artists:
   - tis-kaoru-zamler-carhart
 location: "locatie: Beth Juda - Synagoge, Museumpark Orientalis"
