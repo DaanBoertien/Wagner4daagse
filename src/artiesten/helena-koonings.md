@@ -27,7 +27,7 @@ bio_short: De Braziliaans-Nederlandse sopraan Helena Koonings begon haar
   zangpedagoog Don Marrazzo. In 2018 nam Helena deel aan het 52ste
   Internationaal Vocalisten Concours in ’s-Hertogenbosch, waar ze het Bayreuther
   Festspiele Stipendium van het Wagnergenootschap Nederland won.
-photo: /assets/uploads/Helena_Koonings_ Mel_Boas.JPG
+photo: /assets/uploads/helena_koonings_-mel_boas_liggend.jpg
 masterclass_participant: true
 tags:
   - artiesten
