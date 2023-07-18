@@ -22,7 +22,7 @@ bio_short: >-
   verhuisde ze naar Nederland om te studeren bij leraar José Sogorb.
 
   Janire is afgestudeerd Bachelor Klassieke Hoorn en Oude Muziek aan het Koninklijk Conservatorium in Den Haag bij de docenten Mees Vos, Herman Jeurissen en Teunis van der Zwart. Hier kreeg ze ook de kans om lessen te volgen van docenten als Rob van de Laar, Will Sanders en Jonathan Wegloop.
-photo: /assets/uploads/janire_de_paz_rivas.jpg
+photo: /assets/uploads/janire_de_paz_rivas_liggend.jpg
 masterclass_participant: false
 tags:
   - artiesten
