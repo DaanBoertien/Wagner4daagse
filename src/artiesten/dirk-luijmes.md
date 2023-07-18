@@ -45,7 +45,7 @@ bio_short: Na zijn conservatoriumopleiding (orgel, klavecimbel, kerkmuziek) en
   Harmoniumspeler des Vaderlands’ gedoopt. Meer dan vijfentwintig componisten
   onder wie Willem Breuker, Daan Manneke en Guus Janssen) schreven werken voor
   hem.
-photo: /assets/uploads/drik luijmes.jpg
+photo: /assets/uploads/dirk-luijmes_liggend.jpg
 masterclass_participant: false
 tags:
   - artiesten
