@@ -26,10 +26,11 @@ bio_long: >-
   Onlangs nog zong Alexander de titelrol in de wereldpremière van de opera Maduro in Amare, Den Haag. Daarnaast geeft Alexander concerten met divers repertoire, waaronder Bach’s Magnificat, Weihnachtsoratorium en Matthäus-Passion, Haydn’s Nelson Messe, Mozart’s Mis in c klein, Krönungsmesse en Requiem, het Stabat mater en Petite messe solennelle van Rossini, Messa di Gloria van Puccini, Ein deutsches Requiem van Brahms en het Fauré Requiem. 
 
   Alexander studeerde tevens Rechten aan de universiteit van Leiden en Amsterdam.
-bio_short: Bariton Alexander de Jong studeerde in 2016 af aan het Conservatorium
-  van Tilburg, waar hij rollen zong in o.a. Macbeth, Cosí fan tutte, La Vie
-  Parisienne en Die Fledermaus. Tijdens zijn studie werd Alexander genomineerd
-  voor de Jacques de Leeuw-prijs voor jonge muzikale talenten.
+bio_short: >-
+  Bariton Alexander de Jong studeerde in 2016 af aan het Conservatorium
+   van Tilburg, waar hij rollen zong in o.a. Macbeth, Cosí fan tutte, La Vie
+   Parisienne en Die Fledermaus. Tijdens zijn studie werd Alexander genomineerd
+   voor de Jacques de Leeuw-prijs voor jonge muzikale talenten.
 photo: /assets/uploads/Foto Alexander de Jong (high res).jpg
 masterclass_participant: true
 tags:

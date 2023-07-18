@@ -1,12 +1,14 @@
 const markdownIt = require('markdown-it');
 const yaml = require("js-yaml");
+const markdownItAttrs = require('markdown-it-attrs');
 
 module.exports = function(eleventyConfig) {
   let markdownLibrary = markdownIt({
     html: true,
     breaks: true,
     linkify: true
-  });
+  })
+  .use(markdownItAttrs);
 
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/assets");
