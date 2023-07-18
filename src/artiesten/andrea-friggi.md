@@ -32,7 +32,7 @@ bio_short: Andrea Friggi werd geboren in 1979 in Milaan, waar hij in 2003 zijn
   behaalde ook een doctoraat in de Byzantijnse filologie aan de Universiteit van
   Turijn in 2007 onder leiding van Enrico V. Maltese. Hij is actief als
   wetenschapper en heeft een aantal artikelen gepubliceerd.
-photo: /assets/uploads/andrea.webp
+photo: /assets/uploads/andrea-friggi©merlijn-doomerik_liggend.jpg
 masterclass_participant: false
 tags:
   - artiesten
