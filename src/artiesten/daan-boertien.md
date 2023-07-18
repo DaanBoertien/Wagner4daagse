@@ -34,7 +34,7 @@ bio_short: Daan Boertien is een Nederlandse concertpianist die zich heeft
   Studio. Hij won in 2020 de Berenbergprijs, in 2019 de DAAD-prijs en in 2018 de
   publieksprijs van Dutch Classical Talent samen met bariton Raoul Steffani.
   Verder won hij bij het Gustav-Mahler-Wettbewerb in Hamburg de 1e prijs.
-photo: /assets/uploads/DaanBoertienSebastianGaltier.jpg
+photo: /assets/uploads/daanboertiensebastiangaltier_liggend.jpg
 masterclass_participant: false
 tags:
   - artiesten
