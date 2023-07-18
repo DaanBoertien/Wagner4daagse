@@ -30,7 +30,7 @@ bio_short: Mijn naam is Richard Ranvier, ik ben 22 jaar en kom uit Frankrijk. Ik
   Nicolas Chatenet. Ik heb veel geleerd maar om dat te blijven doen besloot ik
   in een meer “internationaal” land als Nederland te gaan studeren. Ik deed
   auditie voor het CVA en werd leerling van Ad Welleman.
-photo: /assets/uploads/Richard Ranvier.jpeg
+photo: /assets/uploads/richard-ranvier_liggend.jpg
 masterclass_participant: false
 tags:
   - artiesten
