@@ -1,5 +1,5 @@
 ---
-title: ‘Silent Disco’ Felix Motll in de woestijn
+title: ‘Silent Disco’ Felix Mottl in de woestijn
 photo: /assets/uploads/orientalis-woestijn.jpg
 Samenvatting: Op een beschutte plek in de woestijn luistert u in alle rust naar
   de onthaastende opnames van Felix Mottl. Mottl dirigeerde de allereerste Ring
