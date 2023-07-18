@@ -74,7 +74,7 @@ body {
 h1 {
   font-family: "Inter", sans-serif;
   font-weight: 400;
-  font-size: clamp(2.5rem, 3vw, 5rem);
+  font-size: clamp(2.5rem, 3vw, 4rem);
   /* converted from 80px */
   line-height: 1;
   letter-spacing: 0.063rem;
@@ -85,7 +85,7 @@ h1 {
 h2 {
   font-family: "Inter", sans-serif;
   font-weight: 300;
-  font-size: clamp(2rem, 2.5vw, 3.33rem);
+  font-size: clamp(2rem, 2.5vw, 3rem);
   /* converted from 53px */
   line-height: 1.33;
   /* converted from 80px */
@@ -121,7 +121,7 @@ h3 {
 p,
 ul {
   font-family: "Inter", sans-serif;
-  font-size: clamp(1.2rem, 1.5vw, 2rem);
+  font-size: clamp(1.2rem, 1.5vw, 1.5rem);
   /* converted from 32px */
   line-height: 1.6;
   /* converted from 48px */
