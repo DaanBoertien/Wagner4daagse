@@ -35,7 +35,7 @@ bio_short: Sílvia Sequeira, geboren in Portugal en woonachtig in Maastricht, wa
   publieksprijs in de competitie Ciclo Lousada en was de winnaar van de Wagner-
   en de publieksprijs op het Internationaal Vocalisten Concours van ’s
   Hertogenbosch in 2022.
-photo: /assets/uploads/Silvia Sequiera_1.jpg
+photo: /assets/uploads/silvia-sequiera_1_liggend.jpg
 masterclass_participant: true
 tags:
   - artiesten
