@@ -41,7 +41,7 @@ bio_short: João Pedro Pimentel Fernando werd geboren in Coimbra – Portugal. H
   Vervolgens ging hij naar Escola de Artes da Bairrada en de Academia de Música
   de Cantanhede. In 2010 ging hij naar de Escola Profissional de Música de
   Espinho, waar hij zijn middelbare school afrondde.
-photo: /assets/uploads/joao-fernandez.png
+photo: /assets/uploads/joao-fenrandez_liggend.jpg
 masterclass_participant: false
 tags:
   - artiesten
