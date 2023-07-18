@@ -39,7 +39,7 @@ bio_short: Frank studeerde zang in Utrecht en aan de Opera Studio van het
   Festspielhaus Baden-Baden, Santiago de Chile, de Budapest Opera en de
   Semperoper Dresden. Frank maakte zijn debuut aan La Scala als Siegmund en zong
   dezelfde rol aan de Metropolitan Opera.
-photo: /assets/uploads/frankvanaken.webp
+photo: /assets/uploads/frank-van-aken_liggend.jpg
 masterclass_participant: false
 tags:
   - artiesten
