@@ -6,6 +6,7 @@ artists:
   - frank-van-aken
   - marc-pantus
   - merlijn-runia
+  - wilbert-friederichs
 moreinfo: >-
   lees meer over de achtergrond van de voorstelling Parsifal, acte 3 op
   <https://parsifal3.nl/>
