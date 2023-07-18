@@ -32,7 +32,7 @@ bio_short: >-
   Orlofsky, Flora, Dido,
 
   Sandmännchen, Zinnia (L’Étoile), Bac (Who’s afraid of Orfeo), Tzippie (Where the Wild Things Are) en Philomela (Sisters).
-photo: /assets/uploads/runia.jpg
+photo: /assets/uploads/merlijn-runia©maurice-lammerts-van-bueren_liggend.jpg
 masterclass_participant: true
 tags:
   - artiesten
