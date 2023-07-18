@@ -102,7 +102,9 @@ collections:
     slug: "{{name}}"
     fields:
       - { label: "Name", name: "name", widget: "string" }
-      - { label: "Bio", name: "bio", widget: "markdown" }
+      - { label: "Bio", name: "bio", widget: "markdown", required: false }
+      - { label: "Bio Volledig", name: "bio_long", widget: "markdown" }
+      - { label: "Bio Begin", name: "bio_short", widget: "markdown" }
       - { label: "Foto", name: "photo", widget: "image", required: false }
       - {
           label: "Deelnemer Masterclass",

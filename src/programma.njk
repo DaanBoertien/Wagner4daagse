@@ -20,8 +20,10 @@ title: Wagner4daagse
         <p>{{ item.data.location }}</p>
         {{ item.data.datetime | markdownify | safe }}
       </div>
-      <a href="/tickets" class="more-info">Tickets</a>
-      <a href="{{ item.url | url }}" class="more-info">Meer informatie</a>
+      <div class="flex-column">
+        <a href="/tickets" class="more-info">Tickets</a>
+        <a href="{{ item.url | url }}" class="more-info">Meer informatie</a>
+      </div>
       {#
       <p>{{ item.data.moreinfo }}</p>
       #}

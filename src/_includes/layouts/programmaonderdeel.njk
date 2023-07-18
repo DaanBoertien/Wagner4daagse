@@ -1,40 +1,60 @@
 ---
 layout: layouts/base.njk
 ---
+
 <div class="container mt-2">
-    
-    <article>
+  <article>
     <h1>{{ title }}</h1>
     {{ Samenvatting | markdownify | safe }}
     <h2>Locatie</h2>
-      <p>{{ location }}</p>
-    
-      <h2>Data en tijden</h2>
-      {{ datetime | markdownify | safe }}
-    
-      <h2>Meer informatie</h2>
-      {{ moreinfo | markdownify | safe }}
-   <h2>Deelnemers</h2>
-      
-    <div class="container-programma mb-2">
-        {% for artistSlug in artists %}
-        {% set artist = collections["artistMap"][artistSlug] %}
-        <div class="card card-programma-onderdeel">
-        <img src="{{ artist.data.photo }}" alt="{{ artist.data.name }}" />
-        <div class="card-content flex-apart">
-          <div>
-            <h2>{{ artist.data.name }}</h2>
-            {{ artist.data.bio | markdownify | safe }}
-    
-          </div>
-    
-    
-        </div>
-    </div>
-    
-        {% endfor %}
+    <p>{{ location }}</p>
 
-    
-    
-    </article>
+    <h2>Data en tijden</h2>
+    {{ datetime | markdownify | safe }}
+
+    <h2>Meer informatie</h2>
+    {{ moreinfo | markdownify | safe }}
+    <h2>Deelnemers</h2>
+
+    <div class="container-programma mb-2">
+      {% for artistSlug in artists %} {% set artist =
+      collections["artistMap"][artistSlug] %}
+      <div class="card-content flex-apart">
+        <div>
+          <h2>{{ artist.data.name }}</h2>
+
+          <div class="bio-container">
+            <div class="short-bio">
+              {# {{ artist.data.bio_short | markdownify | safe }} #}
+            </div>
+
+            <div class="long-bio">
+              {# {{ artist.data.bio_long | markdownify | safe }} #}
+            </div>
+
+            <button class="read-more">Lees meer</button>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+    <script>
+      document.querySelectorAll(".bio-container").forEach((container) => {
+        const longBio = container.querySelector(".long-bio");
+        const readMoreBtn = container.querySelector(".read-more");
+
+        // Initially, hide the long bio and show the 'read more' button
+        longBio.style.display = "none";
+        readMoreBtn.style.display = "block";
+
+        readMoreBtn.addEventListener("click", () => {
+          // When 'read more' is clicked, toggle visibility of long bio and 'read more' button
+          const isLongBioVisible = longBio.style.display === "block";
+          longBio.style.display = isLongBioVisible ? "none" : "block";
+          readMoreBtn.style.display = isLongBioVisible ? "block" : "none";
+        });
+      });
+    </script>
+  </article>
 </div>

@@ -50,4 +50,10 @@ const swiper = new Swiper('.swiper', {
     },
   });
 
-  
+  // Add click event listener to toggle accordion content
+document.addEventListener('click', function(event) {
+  if (event.target.classList.contains('read-more')) {
+    var accordionContent = event.target.nextElementSibling;
+    accordionContent.style.display = (accordionContent.style.display === 'none') ? 'block' : 'none';
+  }
+});

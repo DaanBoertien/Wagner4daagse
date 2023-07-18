@@ -422,7 +422,7 @@ body {
 
 .more-info {
   font-size: clamp(1.2rem, 1.5vw, 2rem);
-  margin-top: auto; }
+  margin-top: 0; }
 
 .card-content {
   margin: 2em;
@@ -521,6 +521,24 @@ body {
   max-width: 100%;
   height: auto; }
 
+.accordion {
+  margin-bottom: 1rem; }
+
+.accordion .read-more {
+  cursor: pointer;
+  color: blue;
+  text-decoration: underline; }
+
+.accordion .accordion-content {
+  display: none;
+  margin-top: 1rem; }
+
+.accordion-content {
+  display: none; }
+
+.show {
+  display: block; }
+
 .flex {
   display: flex; }
 
@@ -534,3 +552,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between; }
+
+.flex-column {
+  display: flex;
+  flex-direction: column; }
