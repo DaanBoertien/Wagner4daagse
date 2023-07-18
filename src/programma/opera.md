@@ -1,10 +1,4 @@
 ---
-title: Opera
-photo: /assets/uploads/058ac038-4aee-4735-8fc7-ec7cf6df111f.jpg
-Samenvatting: >-
-  Parsifal, acte 3
-
-  Het schitterende decor van de Cenakelkerk en de geestige regie maken deze Parsifal, acte 3 een belevenis voor zowel Wagner-beginners als voor doorgewinterde operaliefhebbers. In de kleine bezetting voor piano, harmonium, synthesizer, klokken en basgitaar kunt u zich helemaal onderdompelen in de bedwelmende muziek. Tenor Frank van Aken vertolkte rollen van Wagner op de grote wereldpodia, en tijdens deze Wagner4daagse kunt u hem beluisteren als Parsifal.
 artists:
   - andrea-friggi
   - daan-boertien
@@ -13,7 +7,6 @@ artists:
   - marc-pantus
   - merlijn-runia
   - wilbert-friederichs
-location: Cenakelkerk
 moreinfo: >-
   Lees [hier](https://parsifal3.nl/) meer over de achtergrond van de
   voorstelling Parsifal, acte 3.
@@ -25,6 +18,13 @@ moreinfo: >-
   Met Frank van Aken, Merlijn Runia, Marc Pantus, Daan Boertien, Dirk Luijmes, Andrea Friggi (muzikale leiding) en Wilbert Friederichs. Koor:Arthur Kuilboer, Coen Bosselaar, Gert-Jan Raats, Hans Hautvast, Hans Meijs, Laurent Sprooten, Lucas Mens, Pieter Wout, Ronald Maarseveen en Walter Hilgers. Muzikale leiding koor: Wilbert Friederichs.
 layout: layouts/programmaonderdeel.njk
 order: 1
+title: Opera
+photo: /assets/uploads/058ac038-4aee-4735-8fc7-ec7cf6df111f.jpg
+Samenvatting: >-
+  **Parsifal, acte 3**
+
+  Het schitterende decor van de Cenakelkerk en de geestige regie maken deze Parsifal, acte 3 een belevenis voor zowel Wagner-beginners als voor doorgewinterde operaliefhebbers. In de kleine bezetting voor piano, harmonium, synthesizer, klokken en basgitaar kunt u zich helemaal onderdompelen in de bedwelmende muziek. Tenor Frank van Aken vertolkte rollen van Wagner op de grote wereldpodia, en tijdens deze Wagner4daagse kunt u hem beluisteren als Parsifal.
+location: Cenakelkerk
 datetime: |-
   do/vr/za: 20.00-21.30
   zo: 17.00-18.30
