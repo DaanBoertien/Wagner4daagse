@@ -15,7 +15,7 @@ artists:
   - wilbert-friederichs
 location: Cenakelkerk
 moreinfo: >-
-  Lees [hier](https://parsifal3.nl/{target=_blank}) meer over de achtergrond van
+  Lees [hier](https://parsifal3.nl/){target=_blank} meer over de achtergrond van
   de voorstelling Parsifal, acte 3.
 
 
