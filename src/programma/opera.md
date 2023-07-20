@@ -15,9 +15,8 @@ artists:
   - wilbert-friederichs
 location: Cenakelkerk
 moreinfo: >-
-  "Lees [parsifal3](https://parsifal3.nl/){target=_blank} meer over de
-  achtergrond van de voorstelling Parsifal, acte 3.
-
+  Lees [hier](https://parsifal3.nl/){target=_blank} meer over de achtergrond van
+  de voorstelling Parsifal, acte 3.
 
 
   We voeren de derde acte van Wagners opera Parsifal uit, in een bijzondere bewerking voor drie zangers, piano, harmonium, synthesizer, basgitaar en klokken. De handeling vindt plaats in de huiskamer van een verpleegtehuis. De kamer is bevolkt met patiënten die op de dood wachten, en hun verzorgend personeel. We zitten dus in feite allemaal in de wachtkamer, wachtend op verlossing. Ondertussen klinkt de bedwelmende, meditatieve muziek van Wagner. Een opera als een spirituele sessie in een mystieke omgeving. De uitvoeringen vinden plaats in de Cenakelkerk in De Heilig Landstichting (bij Nijmegen). Het interieur van deze kerk vormt het natuurlijke decor voor Wagners laatste werk en speelt een belangrijke rol in de apotheose van de opera. Gelegen in de bossen bij Nijmegen is het misschien wel onze eigen "Grüne Hügel", de bijnaam van Wagners eigen Festspielhaus in Bayreuth. De uitvoeringen worden in het Duits gezongen en Nederlands ondertiteld. 
