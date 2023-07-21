@@ -42,6 +42,7 @@ collections:
         editor:
           preview: false
         fields:
+          - { label: "Foto", name: "photo", widget: "image" }
           - { label: "Content", name: "content", widget: "markdown" }
       - file: "src/_data/programma.yml" # Add this section for the Tickets page
         label: "Programma"
@@ -49,6 +50,7 @@ collections:
         editor:
           preview: false
         fields:
+          - { label: "Foto", name: "photo", widget: "image" }
           - { label: "Content", name: "content", widget: "markdown" }
       - file: "src/_data/informatie.yml"
         label: "Informatie"
@@ -56,6 +58,7 @@ collections:
         editor:
           preview: false
         fields:
+          - { label: "Foto", name: "photo", widget: "image" }
           - { label: "Content", name: "content", widget: "markdown" }
           - label: "Logos"
             name: "logos"
