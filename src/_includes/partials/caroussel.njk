@@ -2,12 +2,28 @@
   <!-- Slider main container -->
   <div class="swiper">
     <div class="swiper-wrapper">
-      {% for image in index.carrouselImages %}
+      {% if 'informatie' in page.url %}
+      <!-- Code for Informatie page -->
+      <div
+        class="swiper-slide"
+        style="background-image: url('{{ informatie.image }}')"
+      ></div>
+      {% elif 'programma' in page.url %}
+      <div
+        class="swiper-slide"
+        style="background-image: url('{{ programma.image }}')"
+      ></div>
+      {% elif 'tickets' in page.url %}
+      <div
+        class="swiper-slide"
+        style="background-image: url('{{ tickets.image }}')"
+      ></div>
+      {% else %} {% for image in index.carrouselImages %}
       <div
         class="swiper-slide"
         style="background-image: url('{{ image.url }}')"
       ></div>
-      {% endfor %}
+      {% endfor %} {% endif %}
     </div>
   </div>
 </section>
