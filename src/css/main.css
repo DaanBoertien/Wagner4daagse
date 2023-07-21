@@ -193,7 +193,8 @@ a {
   margin-bottom: 38px;
   height: auto;
   /* Keeps the aspect ratio */
-  z-index: 100; }
+  z-index: 100;
+  min-height: 55px; }
 
 .nav {
   display: flex;
