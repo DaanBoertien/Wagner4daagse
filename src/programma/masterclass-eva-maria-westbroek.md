@@ -1,11 +1,4 @@
 ---
-title: Masterclass Eva-Maria Westbroek
-photo: /assets/uploads/eva-maria-westbroek-gecentreerd.jpg
-Samenvatting: Wereldbefaamde sopraan Eva-Maria Westbroek vertolkte Wagner op
-  podia van Bayreuth tot New York en Milaan – tijdens deze Wagner4daagse krijgen
-  zes zangers de kans om met haar te werken. En u krijgt de kans een kijkje in
-  de keuken te nemen, waar gewerkt wordt aan operarepertoire van verschillende
-  componisten.
 artists:
   - alexander-de-jong
   - helena-koonings
@@ -14,7 +7,6 @@ artists:
   - merlijn-runia
   - zinzi-frohwein
   - sílvia-sequeira
-location: Piet Gerritszaal
 moreinfo: |-
   Repertoire:
   Sílvia Sequiera, sopraan
@@ -58,9 +50,17 @@ moreinfo: |-
   Mein Sehnen, mein Wähnen - Korngold, Die tote Stadt
 layout: layouts/programmaonderdeel.njk
 order: 3
+title: Masterclass Eva-Maria Westbroek
+photo: /assets/uploads/eva-maria-westbroek-gecentreerd.jpg
+Samenvatting: Wereldbefaamde sopraan Eva-Maria Westbroek vertolkte Wagner op
+  podia van Bayreuth tot New York en Milaan – tijdens deze Wagner4daagse krijgen
+  zes zangers de kans om met haar te werken. En u krijgt de kans een kijkje in
+  de keuken te nemen, waar gewerkt wordt aan operarepertoire van verschillende
+  componisten.
+location: Piet Gerritszaal
 datetime: |-
   do/vr/za: 14.00-17.00
 
-  Toegang: €10,00
+  Toegang: €10,-
 tags: programma
 ---
