@@ -1,18 +1,10 @@
 ---
-title: Cosima bij Pilatus
-photo: /assets/uploads/paleis-van-pilatus.jpg
-Samenvatting: "De jonge blazers van het Cosima Koperkwintet spelen werken van
-  Wagner en Mendelssohn op de binnenplaats van het Paleis van Pilatus: een
-  prachtige plek voor een openluchtconcert. Het programma wordt gelardeerd met
-  fragmenten uit de dagboeken van Cosima Wagner, minnares en later vrouw van
-  Richard Wagner. De teksten worden gesproken door deelnemers aan de masterclass
-  van Eva-Maria Westbroek."
 artists:
-  - daniël-schwagermann
+  - andreas-oosterkamp
+  - richard-ranvier
   - janire-de-paz-rivas
   - joão-fernando
-  - richard-ranvier
-location: Binnenplaats Paleis van Pilatus, Museumpark Orientalis
+  - daniël-schwagermann
 moreinfo: |-
   Programma
   Wagner Tannhäuser
@@ -31,6 +23,15 @@ moreinfo: |-
   Fuga
 layout: layouts/programmaonderdeel.njk
 order: 5
+title: Cosima bij Pilatus
+photo: /assets/uploads/paleis-van-pilatus.jpg
+Samenvatting: "De jonge blazers van het Cosima Koperkwintet spelen werken van
+  Wagner en Mendelssohn op de binnenplaats van het Paleis van Pilatus: een
+  prachtige plek voor een openluchtconcert. Het programma wordt gelardeerd met
+  fragmenten uit de dagboeken van Cosima Wagner, minnares en later vrouw van
+  Richard Wagner. De teksten worden gesproken door deelnemers aan de masterclass
+  van Eva-Maria Westbroek."
+location: Binnenplaats Paleis van Pilatus, Museumpark Orientalis
 datetime: |-
   do/vr/za: 18.00-18.45
   zo: 15.00-15.45
