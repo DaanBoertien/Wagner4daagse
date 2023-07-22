@@ -1,24 +1,25 @@
 ---
-tags: programma
-layout: layouts/programmaonderdeel.njk
-title: Balkonscène
-photo: /assets/uploads/wandelingen-cenakelkerk-buiten-rechten-david-brand-met-naam.jpg
-Samenvatting: Net als tijdens de Bayreuther Festspiele kondigt vanaf het balkon
-  (in ons geval het balkon van de Cenakelkerk) een fanfare de aanvang van de
-  opera aan. Deze editie van de Wagner4daagse is dat Parsifal, acte 3.
 artists:
   - andreas-oosterkamp
   - daniël-schwagermann
   - joão-fernando
   - richard-ranvier
-location: Cenakelkerk
+  - janire-de-paz-rivas
+moreinfo: |-
+  Programma:
+  Fragment uit Wagners Parsifal bewerkt voor koperkwintet.
+layout: layouts/programmaonderdeel.njk
 order: 6
+title: Balkonscène
+photo: /assets/uploads/wandelingen-cenakelkerk-buiten-rechten-david-brand-met-naam.jpg
+Samenvatting: Net als tijdens de Bayreuther Festspiele kondigt vanaf het balkon
+  (in ons geval het balkon van de Cenakelkerk) een fanfare de aanvang van de
+  opera aan. Deze editie van de Wagner4daagse is dat Parsifal, acte 3.
+location: Cenakelkerk
 datetime: |-
   do/vr/za: 19.45
   zo: 16.45
 
   Toegang: gratis
-moreinfo: |-
-  Programma:
-  Fragment uit Wagners Parsifal bewerkt voor koperkwintet.
+tags: programma
 ---
