@@ -1,13 +1,6 @@
 ---
-title: Harmoniumrecital Dirk Luijmes
-photo: /assets/uploads/nebo-foto-rob-joseph.jpg
-Samenvatting: Harmoniumvirtuoos Dirk Luijmes stelde een programma samen met
-  werken van Wagner, Liszt en Bruckner. Het belooft een muzikale kleurendoos,
-  want het harmonium is een magisch instrument, dat uitermate geschikt is voor
-  veelzijdige bewerkingen van orkestwerken.
 artists:
   - dirk-luijmes
-location: Nebokerk
 moreinfo: >-
   Programma
 
@@ -22,8 +15,15 @@ moreinfo: >-
   Liszt Präludium und Fuge über den Namen Bach (arr. D. Luijmes)
 layout: layouts/programmaonderdeel.njk
 order: 8
+title: Harmoniumrecital Dirk Luijmes
+photo: /assets/uploads/nebo-foto-rob-joseph.jpg
+Samenvatting: Harmoniumvirtuoos Dirk Luijmes stelde een programma samen met
+  werken van Wagner, Liszt en Bruckner. Het belooft een muzikale kleurendoos,
+  want het harmonium is een magisch instrument, dat uitermate geschikt is voor
+  veelzijdige bewerkingen van orkestwerken.
+location: Nebokerk
 datetime: |-
   zaterdag: 16.00-17.00
-  Toegang: €15.00
+  Toegang: €15,-
 tags: programma
 ---
