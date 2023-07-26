@@ -37,7 +37,7 @@ bio_short: "Bas-bariton Joris van Baar zong recent de titelrol in Divorce of
   Noorden). Eerder dit seizoen zong hij bij De Nationale Opera in de
   wereldpremière van Animal Farm (A. Raskatov) en de rol van Varja in Holland
   Opera's Kersentuin (N. Idelenburg)."
-photo: /assets/uploads/joris-van-baar.jpeg
+photo: /assets/uploads/joris-van-baar-liggend.jpg
 masterclass_participant: true
 tags:
   - artiesten
