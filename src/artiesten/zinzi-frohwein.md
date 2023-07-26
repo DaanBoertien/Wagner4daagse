@@ -27,7 +27,7 @@ bio_short: Zinzi Frohwein studeerde van 2009-2013 aan het Koninklijk
   andere de rollen van La dame élégante (Les mamelles de Tirésias, Poulenc) en
   Youca (L’étoile, Chabrier) bij de Nationale Opera & Ballet en Mimi (La Bohème)
   en Berta (Il Barbiere di Siviglia) bij de Nederlandse Reisopera.
-photo: /assets/uploads/zinzi-frohwein-liggend.jpg
+photo: /assets/uploads/zinzi-frohwein2-liggend.jpg
 masterclass_participant: true
 tags:
   - artiesten
