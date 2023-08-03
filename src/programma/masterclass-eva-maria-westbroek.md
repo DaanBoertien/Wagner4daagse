@@ -7,64 +7,91 @@ artists:
   - merlijn-runia
   - zinzi-frohwein
   - sílvia-sequeira
-moreinfo: |-
+moreinfo: >-
   Repertoire:
+
   **Sílvia Sequiera, sopraan**
 
+
   Senza mamma - Puccini, Suor Angelica
+
   Dich, teure Halle - Wagner, Tannhäuser
+
   Einsam in Trüben Tagen - Wagner, Lohengrin
+
   In quali eccessi... Mi tradi - Mozart, Don Giovanni 
+
   L'altra Notte - Boito, Mefistofele
+
 
   **Merlijn Runia, mezzosopraan**
 
+
   Wie du bist - Strauss, Der Rosenkavalier
+
   Canzone del salice - Verdi, Otello
+
   Sieben frühe Lieder - Berg 
-  1. Nacht
-  2. Schilflied
-  3. Die Nachtigall
-  4. Traumgekrönt
-  5. Im Zimmer
-  6. Liebesode 
-  7. Sommertage 
+
+
+  Nacht / Schilflied / Die Nachtigall / Traumgekrönt / Im Zimmer / Liebesode / Sommertage 
 
 
   **Helena Koonings, sopraan**
 
+
   Du bist der Lenz - Wagner, Die Walküre
+
   Vissi d'arte - Puccini, Tosca
+
   Dich, teure Halle - Wagner, Tannhäuser
+
   Morr, ma prima in grazia - Verdi, Un ballo in maschera
+
 
   **Zinzi Frohwein, sopraan**
 
+
   Allmächt’ge Jungfrau - Wagner, Tannhäuser
+
   Dich, teure Halle - Wagner, Tannhäuser
+
   Un bel di vedremo - Puccini, Madama Butterfly
+
   Vissi d’arte - Puccini, Tosca
+
   Ritorna vincitor - Verdi, Aida
 
 
   **Joris van Baar, bas-bariton**
 
+
   Was duftet doch der Flieder - Wagner, Die Meistersinger von Nürnberg
+
   Wahn! Wahn! Überall Wahn - Wagner, Die Meistersinger von Nürnberg
+
   Il lacerato spirito - Verdi, Simon Boccanegra
+
   Vecchia Zimarra - Puccini, La Boheme
 
+
   Michelangelolieder - Hugo Wolf
-  1. Wohl denk' ich oft
-  2. Alles endet, was entstehet
-  3. Fühlt meine Seele das ersehnte Licht
+
+
+  Wohl denk' ich oft / Alles endet, was entstehet / Fühlt meine Seele das ersehnte Licht
+
 
   **Alexander de Jong, bariton**
 
+
   O, du mein holder Abendstern - Wagner, Tannhäuser
+
   Questo amor, vergogna mia - Puccini, Edgar
+
   Lieben, hassen, hoffen, zagen - Strauss, Ariadne auf Naxos
+
   Sois immobile - Rossini, Guillaume Tell
+
   Mein Sehnen, mein Wähnen - Korngold, Die tote Stadt
 layout: layouts/programmaonderdeel.njk
 order: 3
