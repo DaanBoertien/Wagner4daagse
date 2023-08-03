@@ -15,7 +15,6 @@ moreinfo: |-
   Dich, teure Halle - Wagner, Tannhäuser
   Einsam in Trüben Tagen - Wagner, Lohengrin
   In quali eccessi... Mi tradi - Mozart, Don Giovanni 
-
   L'altra Notte - Boito, Mefistofele
 
   **Merlijn Runia, mezzosopraan**
@@ -23,7 +22,6 @@ moreinfo: |-
   Wie du bist - Strauss, Der Rosenkavalier
   Canzone del salice - Verdi, Otello
   Sieben frühe Lieder - Berg 
-
   1. Nacht
   2. Schilflied
   3. Die Nachtigall
@@ -49,18 +47,16 @@ moreinfo: |-
   Ritorna vincitor - Verdi, Aida
 
 
-  **Joris van Baar**
+  **Joris van Baar, bas-bariton**
 
   Was duftet doch der Flieder - Wagner, Die Meistersinger von Nürnberg
   Wahn! Wahn! Überall Wahn - Wagner, Die Meistersinger von Nürnberg
   Il lacerato spirito - Verdi, Simon Boccanegra
+  Vecchia Zimarra - Puccini, La Boheme
 
   Michelangelolieder - Hugo Wolf
-
   1. Wohl denk' ich oft
-
   2. Alles endet, was entstehet
-
   3. Fühlt meine Seele das ersehnte Licht
 
   **Alexander de Jong, bariton**
